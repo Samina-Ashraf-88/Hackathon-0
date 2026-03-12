@@ -1,0 +1,33 @@
+2026-03-11 12:47:11 [GmailWatcher] WARNING — Token refresh failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'}). Re-authenticating.
+2026-03-11 12:47:14 [GmailWatcher] WARNING — Token refresh failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'}). Re-authenticating.
+2026-03-11 12:48:19 [GmailWatcher] WARNING — Token refresh failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'}). Re-authenticating.
+2026-03-11 12:49:27 [GmailWatcher] WARNING — Token refresh failed: ('invalid_grant: Token has been expired or revoked.', {'error': 'invalid_grant', 'error_description': 'Token has been expired or revoked.'}). Re-authenticating.
+2026-03-11 12:50:03 [GmailWatcher] INFO — Authentication successful.
+2026-03-11 12:50:03 [GmailWatcher] INFO — Token saved to E:\hackathon-0\silver-tier\token.json
+2026-03-11 12:50:03 [GmailWatcher] INFO — Gmail service connected for apple379tree@gmail.com
+2026-03-11 12:50:03 [GmailWatcher] INFO — Starting GmailWatcher (interval: 120s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:50:04 [GmailWatcher] INFO — Found 18 new item(s) to process
+2026-03-11 12:50:05 [GmailWatcher] INFO — Created action file: EMAIL_19cd72912432d5e4.md
+2026-03-11 12:50:05 [GmailWatcher] INFO — Created action file: EMAIL_19cd6a2881d9e357.md
+2026-03-11 12:50:06 [GmailWatcher] INFO — Created action file: EMAIL_19cd30b648ae59b5.md
+2026-03-11 12:50:06 [GmailWatcher] INFO — Created action file: EMAIL_19cd25ae637c7f8f.md
+2026-03-11 12:50:06 [GmailWatcher] INFO — Created action file: EMAIL_19ccb7408989d947.md
+2026-03-11 12:50:07 [GmailWatcher] INFO — Created action file: EMAIL_19cc4588000ea2e5.md
+2026-03-11 12:50:07 [GmailWatcher] INFO — Created action file: EMAIL_19cc411c5a39934b.md
+2026-03-11 12:50:07 [GmailWatcher] INFO — Created action file: EMAIL_19cc40f634e4d89c.md
+2026-03-11 12:50:08 [GmailWatcher] INFO — Created action file: EMAIL_19cc34c8b146021a.md
+2026-03-11 12:50:08 [GmailWatcher] INFO — Created action file: EMAIL_19cc1c92aeb1d07f.md
+2026-03-11 12:50:08 [GmailWatcher] INFO — Created action file: EMAIL_19cbf51c8423458a.md
+2026-03-11 12:50:08 [GmailWatcher] INFO — Created action file: EMAIL_19cbe6a05cc622bd.md
+2026-03-11 12:50:09 [GmailWatcher] INFO — Created action file: EMAIL_19cbe42728e9f383.md
+2026-03-11 12:50:09 [GmailWatcher] INFO — Created action file: EMAIL_19cb4362bf147ff7.md
+2026-03-11 12:50:09 [GmailWatcher] INFO — Created action file: EMAIL_19cb2c3ebe4a42bc.md
+2026-03-11 12:50:10 [GmailWatcher] INFO — Created action file: EMAIL_19cb10f1af095727.md
+2026-03-11 12:50:10 [GmailWatcher] INFO — Created action file: EMAIL_19cb0028d213f2ef.md
+2026-03-11 12:50:10 [GmailWatcher] INFO — Created action file: EMAIL_19cae452cd0e79d3.md
+2026-03-11 12:50:10 [GmailWatcher] INFO — Triggering Claude with skill: SKILL_Reasoning_Loop
+2026-03-11 12:50:10 [GmailWatcher] ERROR — Claude CLI not found. Install it: npm install -g @anthropic/claude-code
+2026-03-11 12:50:32 [GmailWatcher] INFO — Gmail service connected for apple379tree@gmail.com
+2026-03-11 12:50:32 [GmailWatcher] INFO — Starting GmailWatcher (interval: 120s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:51:40 [GmailWatcher] INFO — Gmail service connected for apple379tree@gmail.com
+2026-03-11 12:51:40 [GmailWatcher] INFO — Starting GmailWatcher (interval: 120s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)

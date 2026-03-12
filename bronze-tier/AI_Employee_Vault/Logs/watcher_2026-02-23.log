@@ -1,0 +1,445 @@
+2026-02-23 15:56:42,401 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 15:56:42,401 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 15:56:42,401 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 15:56:42,401 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 15:56:42,401 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 15:56:42,402 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 15:56:42,402 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 15:56:42,402 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 15:56:42,404 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 15:56:42,507 [INFO    ] FileSystemWatcher: ✅ watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 15:56:42,532 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 15:56:42,532 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 16:11:33,549 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 16:11:33,549 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:11:33,549 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 16:11:33,549 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:11:33,550 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:11:33,550 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:11:33,550 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 16:11:33,551 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 16:11:33,552 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:11:33,652 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:11:33,652 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 16:11:33,652 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 16:11:50,537 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 16:11:50,539 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 16:11:51,343 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_hackathon_brief.pdf
+2026-02-23 16:11:51,345 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_hackathon_brief.md
+2026-02-23 16:11:51,347 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_hackathon_brief.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:11:51,347 [INFO    ] FileSystemWatcher: [DONE] File processed: hackathon_brief.pdf
+
+2026-02-23 16:11:51,399 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_hackathon_brief_1.pdf
+2026-02-23 16:11:51,403 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_hackathon_brief_1.md
+2026-02-23 16:11:51,423 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_hackathon_brief_1.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:11:51,425 [INFO    ] FileSystemWatcher: ✅  Done: hackathon_brief.pdf
+
+2026-02-23 16:12:48,688 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 16:12:48,688 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:12:48,688 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 16:12:48,689 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:12:48,689 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:12:48,689 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:12:48,691 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 16:12:48,692 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 16:12:48,694 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:12:48,789 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:12:48,789 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 16:12:48,789 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 16:13:09,297 [INFO    ] FileSystemWatcher: ↘  New file detected: client_message.txt
+2026-02-23 16:13:09,298 [INFO    ] FileSystemWatcher: ↘  New file detected: client_message.txt
+2026-02-23 16:13:09,299 [INFO    ] FileSystemWatcher: ↘  New file detected: client_message.txt
+2026-02-23 16:13:10,102 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_message.txt
+2026-02-23 16:13:10,106 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_message.md
+2026-02-23 16:13:10,107 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_message_1.txt
+2026-02-23 16:13:10,111 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_message.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:13:10,112 [INFO    ] FileSystemWatcher: [DONE] File processed: client_message.txt
+
+2026-02-23 16:13:10,112 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_message_2.txt
+2026-02-23 16:13:10,124 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_message_2.md
+2026-02-23 16:13:10,164 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_message_1.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:13:10,164 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_message_2.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:13:10,165 [INFO    ] FileSystemWatcher: [DONE] File processed: client_message.txt
+
+2026-02-23 16:13:10,171 [INFO    ] FileSystemWatcher: ✅  Done: client_message.txt
+
+2026-02-23 16:14:51,901 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 16:14:51,901 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:14:51,901 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 16:14:51,901 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:14:51,901 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:14:51,901 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:14:51,902 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 16:14:51,902 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 16:14:51,903 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:14:51,955 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:14:51,955 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 16:14:51,955 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 16:14:54,855 [INFO    ] FileSystemWatcher: ↘  New file detected: client_note.txt
+2026-02-23 16:14:54,855 [INFO    ] FileSystemWatcher: ↘  New file detected: client_note.txt
+2026-02-23 16:14:54,855 [INFO    ] FileSystemWatcher: ↘  New file detected: client_note.txt
+2026-02-23 16:14:55,661 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_note.txt
+2026-02-23 16:14:55,664 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_note.txt
+2026-02-23 16:14:55,664 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_note.md
+2026-02-23 16:14:55,664 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_note_1.txt
+2026-02-23 16:14:55,665 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_note.txt
+2026-02-23 16:14:55,666 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_note.md
+2026-02-23 16:14:55,667 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_note.md
+2026-02-23 16:14:55,669 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_note.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:14:55,670 [INFO    ] FileSystemWatcher: [DONE] File processed: client_note.txt
+
+2026-02-23 16:14:55,675 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_note_1.md
+2026-02-23 16:14:55,718 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_note.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:14:55,718 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_note_1.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:14:55,718 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_note.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:14:55,719 [INFO    ] FileSystemWatcher: [DONE] File processed: client_note.txt
+
+2026-02-23 16:14:55,719 [INFO    ] FileSystemWatcher: [DONE] File processed: client_note.txt
+
+2026-02-23 16:14:55,725 [INFO    ] FileSystemWatcher: ✅  Done: client_note.txt
+
+2026-02-23 16:16:34,409 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 16:16:34,410 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:16:34,410 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 16:16:34,410 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 16:16:34,410 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:16:34,410 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:16:34,411 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 16:16:34,411 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 16:16:34,414 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 16:16:34,508 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 16:16:34,509 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 16:16:34,509 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 16:16:58,381 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 16:16:58,381 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 16:16:58,381 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 16:16:59,188 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_hackathon_brief.pdf
+2026-02-23 16:16:59,191 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_hackathon_brief.pdf
+2026-02-23 16:16:59,191 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_hackathon_brief.md
+2026-02-23 16:16:59,195 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_hackathon_brief.md
+2026-02-23 16:16:59,195 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_hackathon_brief_1.pdf
+2026-02-23 16:16:59,198 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_hackathon_brief_1.md
+2026-02-23 16:16:59,228 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_hackathon_brief.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:16:59,228 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_hackathon_brief_1.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:16:59,228 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_hackathon_brief.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:16:59,228 [INFO    ] FileSystemWatcher: [DONE] File processed: hackathon_brief.pdf
+
+2026-02-23 16:16:59,228 [INFO    ] FileSystemWatcher: [DONE] File processed: hackathon_brief.pdf
+
+2026-02-23 16:17:00,432 [INFO    ] FileSystemWatcher: ↘  New file detected: client_note.txt
+2026-02-23 16:17:01,237 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_client_note.txt
+2026-02-23 16:17:01,240 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_client_note.md
+2026-02-23 16:17:01,266 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_client_note.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 16:17:01,267 [INFO    ] FileSystemWatcher: [DONE] File processed: client_note.txt
+
+2026-02-23 18:18:26,499 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 18:18:26,499 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 18:18:26,499 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 18:18:26,500 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 18:18:26,500 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 18:18:26,500 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 18:18:26,500 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 18:18:26,501 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 18:18:26,502 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 18:18:26,573 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 18:18:26,573 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 18:18:26,574 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 18:20:48,777 [INFO    ] FileSystemWatcher: ↘  New file detected: content.md
+2026-02-23 18:20:48,777 [INFO    ] FileSystemWatcher: ↘  New file detected: content.md
+2026-02-23 18:20:48,777 [INFO    ] FileSystemWatcher: ↘  New file detected: content.md
+2026-02-23 18:20:48,777 [INFO    ] FileSystemWatcher: ↘  New file detected: content.md
+2026-02-23 18:20:49,579 [INFO    ] FileSystemWatcher: [SKIP] Already queued: content.md → FILE_content.md
+2026-02-23 18:20:49,580 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_content.md
+2026-02-23 18:20:49,581 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_content.md
+2026-02-23 18:20:49,583 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_content.md
+2026-02-23 18:20:49,584 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_content_2.md
+2026-02-23 18:20:49,584 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_content_1.md
+2026-02-23 18:20:49,585 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_content_1.md
+2026-02-23 18:20:49,585 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_content_2.md
+2026-02-23 18:20:49,586 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_content_1.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 18:20:49,587 [INFO    ] FileSystemWatcher: [DONE] File processed: content.md
+
+2026-02-23 18:20:49,587 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_content.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 18:20:49,587 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_content_2.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 18:20:49,587 [INFO    ] FileSystemWatcher: [DONE] File processed: content.md
+
+2026-02-23 18:20:49,589 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_content_3.md
+2026-02-23 18:20:49,593 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_content_3.md
+2026-02-23 18:20:49,594 [INFO    ] FileSystemWatcher: [DONE] File processed: content.md
+
+2026-02-23 18:20:49,616 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_content_3.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 18:20:49,618 [INFO    ] FileSystemWatcher: ✅  Done: content.md
+
+2026-02-23 18:20:49,581 [ERROR   ] FileSystemWatcher: Error processing content.md: [Errno 13] Permission denied: 'E:\\hackathon-0\\AI_Employee_Vault\\Needs_Action\\FILE_content.md'
+Traceback (most recent call last):
+  File "E:\hackathon-0\filesystem_watcher.py", line 264, in handle_new_file
+  File "E:\hackathon-0\filesystem_watcher.py", line 295, in _process
+    dest_file = self.needs_action / f"FILE_{safe_stem}_{n}{source.suffix}"
+    ...<2 lines>...
+    
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\pathlib\_local.py", line 555, in write_text
+    return PathBase.write_text(self, data, encoding, errors, newline)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\pathlib\_abc.py", line 651, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\pathlib\_local.py", line 537, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'E:\\hackathon-0\\AI_Employee_Vault\\Needs_Action\\FILE_content.md'
+2026-02-23 21:51:14,803 [INFO    ] FileSystemWatcher: ↘  New file detected: README.md
+2026-02-23 21:51:14,804 [INFO    ] FileSystemWatcher: ↘  New file detected: README.md
+2026-02-23 21:51:15,618 [INFO    ] FileSystemWatcher: [SKIP] Already queued: README.md → FILE_README.md
+2026-02-23 21:51:15,618 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_README.md
+2026-02-23 21:51:15,619 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_README.md
+2026-02-23 21:51:15,620 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_README.md
+2026-02-23 21:51:15,621 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_README_1.md
+2026-02-23 21:51:15,621 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_README.md
+2026-02-23 21:51:15,623 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_README_2.md
+2026-02-23 21:51:15,623 [INFO    ] FileSystemWatcher:    ✔ Copied  → FILE_README_3.md
+2026-02-23 21:51:15,623 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_README_2.md
+2026-02-23 21:51:15,624 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_README_1.md
+2026-02-23 21:51:15,624 [INFO    ] FileSystemWatcher:    ✔ Metadata → FILE_README_3.md
+2026-02-23 21:51:15,635 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_README.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 21:51:15,635 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_README.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 21:51:15,635 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_README_2.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 21:51:15,635 [INFO    ] FileSystemWatcher: [DONE] File processed: README.md
+
+2026-02-23 21:51:15,635 [INFO    ] FileSystemWatcher: [DONE] File processed: README.md
+
+2026-02-23 21:51:15,636 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_README_3.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 21:51:15,636 [INFO    ] FileSystemWatcher: [DONE] File processed: README.md
+
+2026-02-23 21:51:15,636 [INFO    ] FileSystemWatcher: 
+   ┌─ To process manually ─────────────────────────────────────┐
+   │  claude "Read Skills/SKILL_Process_File_Drop.md.          │
+   │          Process Needs_Action/FILE_README_1.md"  │
+   └───────────────────────────────────────────────────────────┘
+
+2026-02-23 21:51:15,637 [INFO    ] FileSystemWatcher: ✅  Done: README.md
+
+2026-02-23 21:53:37,450 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 21:53:37,450 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 21:53:37,450 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 21:53:37,450 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 21:53:37,451 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 21:53:37,451 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 21:53:37,451 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 21:53:37,451 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 21:53:37,452 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 21:53:37,505 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 21:53:37,506 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 21:53:37,506 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 21:55:57,347 [INFO    ] FileSystemWatcher: ↘  New file detected: content.md
+2026-02-23 21:55:58,150 [INFO    ] FileSystemWatcher: [SKIP] Already queued: content.md → FILE_content.md
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 22:13:50,915 [INFO    ] FileSystemWatcher: Auto-trigger : OFF (manual)
+2026-02-23 22:13:50,916 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 22:13:50,963 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 22:13:50,963 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 22:13:50,963 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 22:13:52,858 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 22:13:52,858 [INFO    ] FileSystemWatcher: ↘  New file detected: hackathon_brief.pdf
+2026-02-23 22:13:52,859 [INFO    ] FileSystemWatcher: >> New file detected: hackathon_brief.pdf
+2026-02-23 22:13:53,669 [INFO    ] FileSystemWatcher:    OK Copied  -> FILE_hackathon_brief.pdf
+2026-02-23 22:13:53,672 [INFO    ] FileSystemWatcher:    OK Metadata -> FILE_hackathon_brief.md
+2026-02-23 22:13:53,675 [INFO    ] FileSystemWatcher: 
+   +-- To process manually ---------------------------------------+
+   |  claude "Read Skills/SKILL_Process_File_Drop.md.            |
+   |          Process Needs_Action/FILE_hackathon_brief.md"  |
+   +-------------------------------------------------------------+
+
+2026-02-23 22:13:53,675 [INFO    ] FileSystemWatcher: [DONE] File processed: hackathon_brief.pdf
+
+2026-02-23 22:13:53,671 [ERROR   ] FileSystemWatcher: Error processing hackathon_brief.pdf: [WinError 32] The process cannot access the file because it is being used by another process
+Traceback (most recent call last):
+  File "E:\hackathon-0\filesystem_watcher.py", line 266, in handle_new_file
+    self._process(source)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "E:\hackathon-0\filesystem_watcher.py", line 300, in _process
+    shutil.copy2(source, dest_file)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 453, in copy2
+    _winapi.CopyFile2(src_, dst_, flags)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process
+2026-02-23 22:13:53,671 [ERROR   ] FileSystemWatcher: Error processing hackathon_brief.pdf: [WinError 32] The process cannot access the file because it is being used by another process
+Traceback (most recent call last):
+  File "E:\hackathon-0\filesystem_watcher.py", line 266, in handle_new_file
+    self._process(source)
+    ~~~~~~~~~~~~~^^^^^^^^
+  File "E:\hackathon-0\filesystem_watcher.py", line 300, in _process
+    shutil.copy2(source, dest_file)
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\shutil.py", line 453, in copy2
+    _winapi.CopyFile2(src_, dst_, flags)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+PermissionError: [WinError 32] The process cannot access the file because it is being used by another process
+2026-02-23 22:28:00,437 [INFO    ] FileSystemWatcher: Log file: E:\hackathon-0\AI_Employee_Vault\Logs\watcher_2026-02-23.log
+2026-02-23 22:28:00,437 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 22:28:00,438 [INFO    ] FileSystemWatcher:  AI Employee — File System Watcher
+2026-02-23 22:28:00,438 [INFO    ] FileSystemWatcher: ============================================================
+2026-02-23 22:28:00,438 [INFO    ] FileSystemWatcher: Vault        : E:\hackathon-0\AI_Employee_Vault
+2026-02-23 22:28:00,438 [INFO    ] FileSystemWatcher: Watching     : E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 22:28:00,438 [INFO    ] FileSystemWatcher: Needs Action : E:\hackathon-0\AI_Employee_Vault\Needs_Action
+2026-02-23 22:28:00,439 [INFO    ] FileSystemWatcher: Auto-trigger : ON (process_vault.py)
+2026-02-23 22:28:00,440 [INFO    ] FileSystemWatcher: Vault structure verified at: E:\hackathon-0\AI_Employee_Vault
+2026-02-23 22:28:00,495 [INFO    ] FileSystemWatcher: [OK] watchdog observer started on: E:\hackathon-0\AI_Employee_Vault\Inbox
+2026-02-23 22:28:00,496 [INFO    ] FileSystemWatcher:    Drop files into Inbox/ to trigger processing.
+2026-02-23 22:28:00,496 [INFO    ] FileSystemWatcher:    Press Ctrl+C to stop.
+
+2026-02-23 22:28:57,972 [INFO    ] FileSystemWatcher: >> New file detected: content.md
+2026-02-23 22:28:57,972 [INFO    ] FileSystemWatcher: >> New file detected: content.md
+2026-02-23 22:28:58,777 [INFO    ] FileSystemWatcher:    OK Copied  -> FILE_content.md
+2026-02-23 22:28:58,780 [INFO    ] FileSystemWatcher:    OK Copied  -> FILE_content.md
+2026-02-23 22:28:58,786 [INFO    ] FileSystemWatcher:    OK Metadata -> FILE_content.md
+2026-02-23 22:28:58,792 [INFO    ] FileSystemWatcher: 
+   +-- To process manually ---------------------------------------+
+   |  claude "Read Skills/SKILL_Process_File_Drop.md.            |
+   |          Process Needs_Action/FILE_content.md"  |
+   +-------------------------------------------------------------+
+
+2026-02-23 22:28:58,799 [INFO    ] FileSystemWatcher: Auto-triggering processor for: FILE_content.md ...
+2026-02-23 22:28:58,778 [ERROR   ] FileSystemWatcher: Error processing content.md: [Errno 13] Permission denied: 'E:\\hackathon-0\\AI_Employee_Vault\\Needs_Action\\FILE_content.md'
+Traceback (most recent call last):
+  File "E:\hackathon-0\filesystem_watcher.py", line 266, in handle_new_file
+    safe_stem = source.stem.replace(" ", "_")
+    ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\hackathon-0\filesystem_watcher.py", line 304, in _process
+        n += 1
+        ^^^^^^
+    ...<2 lines>...
+    shutil.copy2(source, dest_file)
+    ^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\pathlib\_local.py", line 555, in write_text
+    return PathBase.write_text(self, data, encoding, errors, newline)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\pathlib\_abc.py", line 651, in write_text
+    with self.open(mode='w', encoding=encoding, errors=errors, newline=newline) as f:
+         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\LENOVO\AppData\Local\Programs\Python\Python313\Lib\pathlib\_local.py", line 537, in open
+    return io.open(self, mode, buffering, encoding, errors, newline)
+           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'E:\\hackathon-0\\AI_Employee_Vault\\Needs_Action\\FILE_content.md'
+2026-02-23 22:29:00,111 [WARNING ] FileSystemWatcher: Processor exited with code 1
+2026-02-23 22:29:00,111 [INFO    ] FileSystemWatcher: [DONE] File processed: content.md
+

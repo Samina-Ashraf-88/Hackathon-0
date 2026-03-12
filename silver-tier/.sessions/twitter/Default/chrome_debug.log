@@ -1,0 +1,6 @@
+[0311/125740.815:INFO:CONSOLE:1] "Error", source: https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js (1)
+[0311/125740.940:ERROR:content\public\browser\web_contents_delegate.cc:302] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[0311/125740.940:ERROR:content\public\browser\web_contents_delegate.cc:302] WebContentsDelegate::CheckMediaAccessPermission: Not supported.
+[0311/125741.174:INFO:CONSOLE:354] "[.WebGL-0x34940241d500]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels", source: https://x.com/home (354)
+[0311/125741.204:INFO:CONSOLE:354] "No available adapters.", source: https://x.com/home (354)
+[0311/125741.698:INFO:CONSOLE:1] "Error", source: https://abs.twimg.com/responsive-web/client-web/vendor.d74f1a3a.js (1)

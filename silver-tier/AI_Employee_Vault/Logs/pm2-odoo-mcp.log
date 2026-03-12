@@ -1,0 +1,16 @@
+2026-03-01T16:06:22: {"level":"info","message":{"db":"ai_employee_db","dry_run":true,"msg":"Odoo MCP server running","odoo":"http://localhost:8069","port":"3004"},"timestamp":"2026-03-01T11:06:22.334Z"}
+2026-03-01T16:06:22: {"level":"warn","message":{"msg":"DRY RUN MODE — no Odoo write operations will be executed"},"timestamp":"2026-03-01T11:06:22.346Z"}
+2026-03-11T12:47:06: info: [object Object] {"timestamp":"2026-03-11T07:47:06.524Z"}
+2026-03-11T12:47:11: info: [object Object] {"timestamp":"2026-03-11T07:47:11.302Z"}
+2026-03-11T12:47:13: info: [object Object] {"timestamp":"2026-03-11T07:47:13.630Z"}
+2026-03-11T12:47:22: info: [object Object] {"timestamp":"2026-03-11T07:47:22.804Z"}
+2026-03-11T12:52:40: info: [object Object] {"timestamp":"2026-03-11T07:52:40.548Z"}
+2026-03-11T12:52:49: info: [object Object] {"timestamp":"2026-03-11T07:52:49.493Z"}
+2026-03-11T12:58:30: info: [object Object] {"timestamp":"2026-03-11T07:58:30.213Z"}
+2026-03-11T12:58:30: info: [object Object] {"timestamp":"2026-03-11T07:58:30.713Z"}
+2026-03-11T12:58:31: info: [object Object] {"timestamp":"2026-03-11T07:58:31.023Z"}
+2026-03-11T12:58:37: info: [object Object] {"timestamp":"2026-03-11T07:58:37.258Z"}
+2026-03-11T12:58:38: info: [object Object] {"timestamp":"2026-03-11T07:58:38.287Z"}
+2026-03-11T13:02:03: info: [object Object] {"timestamp":"2026-03-11T08:02:03.491Z"}
+2026-03-11T13:02:05: info: [object Object] {"timestamp":"2026-03-11T08:02:05.571Z"}
+2026-03-11T13:02:07: info: [object Object] {"timestamp":"2026-03-11T08:02:07.680Z"}

@@ -1,0 +1,114 @@
+##############################################################################
+# docker-compose.odoo.yml — Odoo 17/19 Community for AI Employee Gold Tier
+#
+# Usage:
+#   # Create required local dirs first:
+#   mkdir -p odoo-data/postgres odoo-data/odoo
+#
+#   # Start:
+#   docker compose -f docker-compose.odoo.yml up -d
+#
+#   # First-time DB + module setup:
+#   python scripts/setup_odoo.py
+#
+# Access:
+#   Odoo Web UI:  http://localhost:8069
+#   DB name:      ai_employee_db
+#   Admin login:  admin / (ODOO_PASSWORD from .env)
+#
+# Modules installed:
+#   account           — Accounting & Finance (core)
+#   account_accountant — Full accounting features (journal entries, etc.)
+#   sale_management   — Sales & CRM
+#   purchase          — Purchase Orders
+#   analytic          — Analytic Accounts / Cost Centers
+#   contacts          — Contact management
+#   currency_rate_live — Live currency exchange rates
+##############################################################################
+
+services:
+
+  # ── PostgreSQL 16 Database ──────────────────────────────────────────────────
+  odoo-db:
+    image: postgres:16-alpine
+    container_name: ai_employee_odoo_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: postgres
+      POSTGRES_USER: odoo
+      POSTGRES_PASSWORD: ${ODOO_DB_PASSWORD:-Pg$Odoo#Secure!7742}
+    volumes:
+      - odoo_db_data:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"   # localhost-only
+    networks:
+      - odoo_net
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U odoo"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Odoo Community ──────────────────────────────────────────────────────────
+  # odoo:18 is the latest stable Community release (Oct 2024).
+  # Upgrade to odoo:19 when Anthropic's Docker Hub publishes that tag.
+  odoo:
+    image: odoo:18
+    container_name: ai_employee_odoo
+    restart: unless-stopped
+    depends_on:
+      odoo-db:
+        condition: service_healthy
+    ports:
+      - "127.0.0.1:8069:8069"   # localhost-only (MCP bridges to the outside)
+      - "127.0.0.1:8072:8072"   # long-polling
+    environment:
+      HOST: odoo-db
+      PORT: 5432
+      USER: odoo
+      PASSWORD: ${ODOO_DB_PASSWORD:-Pg$Odoo#Secure!7742}
+    volumes:
+      - odoo_web_data:/var/lib/odoo
+      - ./odoo-config/odoo.conf:/etc/odoo/odoo.conf:ro
+      - ./odoo-addons:/mnt/extra-addons:ro
+    networks:
+      - odoo_net
+    # --init installs modules only when the DB doesn't exist yet.
+    # Remove --init flag after first startup to speed up restarts.
+    command: >
+      odoo
+      --config=/etc/odoo/odoo.conf
+      --db_host=odoo-db
+      --db_port=5432
+      --db_user=odoo
+      --db_password=${ODOO_DB_PASSWORD:-Pg$Odoo#Secure!7742}
+      --database=ai_employee_db
+      --init=base,account,sale_management,purchase,analytic,contacts,currency_rate_live
+      --without-demo=all
+      --log-level=warn
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8069/web/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 12
+      start_period: 90s
+
+# ── Named Volumes (bind-mounted for easy backup) ─────────────────────────────
+volumes:
+  odoo_db_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./odoo-data/postgres
+
+  odoo_web_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ./odoo-data/odoo
+
+networks:
+  odoo_net:
+    driver: bridge

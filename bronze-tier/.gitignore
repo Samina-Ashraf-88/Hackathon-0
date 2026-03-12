@@ -1,0 +1,43 @@
+# AI Employee — .gitignore
+# ─────────────────────────────────────────────────────────────────
+# SECURITY: Never commit secrets, credentials, or session data
+
+# Environment & secrets
+.env
+.env.*
+*.key
+*.pem
+credentials.json
+token.json
+*.token
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Logs (optional — keep if you want git history of logs)
+# AI_Employee_Vault/Logs/
+
+# Obsidian workspace (personal, machine-specific)
+AI_Employee_Vault/.obsidian/workspace
+AI_Employee_Vault/.obsidian/workspace.json
+AI_Employee_Vault/.obsidian/plugins/
+
+# Vault: never sync session or banking data
+*.session
+*.cookies
+whatsapp_session/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

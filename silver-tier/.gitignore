@@ -1,0 +1,32 @@
+# ── Secrets — NEVER commit these ──────────────────────────────
+.env
+.env.example
+.env.gold.example
+token.json
+credentials.json
+client_secret_*.json
+*.pid
+
+# ── State files ────────────────────────────────────────────────
+.gmail_processed.json
+.linkedin_processed.json
+.ralph_iterations.json
+
+# ── Python ────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# ── Node.js ───────────────────────────────────────────────────
+node_modules/
+mcp-email-server/node_modules/
+
+# ── Logs (optional — you may want to commit these) ────────────
+# AI_Employee_Vault/Logs/
+
+# ── Obsidian cache ────────────────────────────────────────────
+AI_Employee_Vault/.obsidian/workspace.json
+AI_Employee_Vault/.obsidian/cache

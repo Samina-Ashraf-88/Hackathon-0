@@ -1,0 +1,58 @@
+# ============================================================
+# AI Employee — Cron Jobs (Unix/Mac/Linux)
+# ============================================================
+# Add to crontab with: crontab -e
+# Adjust paths to match your environment.
+# ============================================================
+
+# --- Variables ---
+# Set these at the top of your crontab:
+# VAULT=/path/to/AI_Employee_Vault
+# PROJECT=/path/to/silver-tier
+# PYTHON=/usr/bin/python3
+# NODE=/usr/bin/node
+
+# ── Gmail Watcher (runs as a daemon, restart every 4 hours if dead) ──
+# The watcher runs continuously via PM2. This cron is a fallback restart.
+# 0 */4 * * * pm2 restart gmail_watcher 2>/dev/null || python3 /path/to/silver-tier/watchers/gmail_watcher.py &
+
+# ── LinkedIn Watcher (restart fallback every 6 hours) ──
+# 0 */6 * * * pm2 restart linkedin_watcher 2>/dev/null || python3 /path/to/silver-tier/watchers/linkedin_watcher.py &
+
+# ── Orchestrator: Poll vault every 5 minutes ──
+*/5 * * * * /usr/bin/python3 /path/to/silver-tier/watchers/orchestrator.py --once >> /path/to/silver-tier/AI_Employee_Vault/Logs/orchestrator_cron.log 2>&1
+
+# ── Reasoning Loop: Run every 10 minutes if Needs_Action has files ──
+*/10 * * * * /usr/bin/python3 /path/to/silver-tier/watchers/orchestrator.py --trigger reasoning_loop >> /path/to/silver-tier/AI_Employee_Vault/Logs/reasoning_cron.log 2>&1
+
+# ── LinkedIn Sales Post: Mon, Wed, Fri at 9:00 AM ──
+0 9 * * 1,3,5 /usr/bin/python3 /path/to/silver-tier/watchers/orchestrator.py --trigger sales_post >> /path/to/silver-tier/AI_Employee_Vault/Logs/sales_post_cron.log 2>&1
+
+# ── Weekly CEO Briefing: Every Monday at 7:00 AM ──
+0 7 * * 1 /usr/bin/python3 /path/to/silver-tier/watchers/orchestrator.py --trigger briefing >> /path/to/silver-tier/AI_Employee_Vault/Logs/briefing_cron.log 2>&1
+
+# ── Check Approved Actions every 5 minutes ──
+# (Orchestrator handles this automatically when running continuously)
+# */5 * * * * /usr/bin/python3 /path/to/silver-tier/watchers/orchestrator.py --once
+
+# ── MCP Server Health Check every 15 minutes (restart if down) ──
+# */15 * * * * curl -sf http://localhost:3000/health || (cd /path/to/silver-tier/mcp-email-server && node index.js &)
+
+# ============================================================
+# PM2 Setup (recommended over raw cron for watchers)
+# ============================================================
+# Install PM2: npm install -g pm2
+#
+# Start all watchers:
+#   pm2 start /path/to/silver-tier/watchers/gmail_watcher.py --name gmail_watcher --interpreter python3 -- --vault /path/to/AI_Employee_Vault
+#   pm2 start /path/to/silver-tier/watchers/linkedin_watcher.py --name linkedin_watcher --interpreter python3 -- --vault /path/to/AI_Employee_Vault
+#   pm2 start /path/to/silver-tier/watchers/orchestrator.py --name orchestrator --interpreter python3 -- --vault /path/to/AI_Employee_Vault
+#   pm2 start /path/to/silver-tier/mcp-email-server/index.js --name mcp_email
+#
+# Save and enable startup:
+#   pm2 save
+#   pm2 startup
+#
+# View logs:
+#   pm2 logs gmail_watcher
+#   pm2 logs orchestrator

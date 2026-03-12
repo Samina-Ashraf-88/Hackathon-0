@@ -1,0 +1,13 @@
+[0306/230329.526:INFO:CONSOLE:253] "
+%cرکیں! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.xx.fbcdn.net/rsrc.php/v4/yY/r/72q60AnoBVW.js (253)
+[0306/230329.526:INFO:CONSOLE:253] "
+%cبراؤزر میں دستیاب یہ فیچر ڈویلپرز کیلئے ہے۔ اگر کوئی شخص کسی Facebook فیچر کو فعال کرنے یا کسی شخص کا اکاؤنٹ ہیک کرنے کیلئے آپ سے یہاں کچھ کاپی پیسٹ کرنے کو کہتا ہے تو یہ دھوکہ بازی ہے اور اس کے نتیجے میں اس شخص کو آپ کے Facebook اکاؤنٹ تک رسائی حاصل ہو جائے گی۔ font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/yY/r/72q60AnoBVW.js (253)
+[0306/230329.526:INFO:CONSOLE:253] "
+%cمزید معلومات کیلئے https://www.facebook.com/selfxss دیکھیں۔ font-family:helvetica; font-size:20px; ", source: https://static.xx.fbcdn.net/rsrc.php/v4/yY/r/72q60AnoBVW.js (253)
+[0306/230329.526:INFO:CONSOLE:253] "
+%c ", source: https://static.xx.fbcdn.net/rsrc.php/v4/yY/r/72q60AnoBVW.js (253)
+[0306/230329.619:INFO:CONSOLE:77] "ErrorUtils caught an error:
+
+The user agent does not support public key credentials.
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.xx.fbcdn.net/rsrc.php/v4/yY/r/72q60AnoBVW.js (77)

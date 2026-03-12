@@ -1,0 +1,391 @@
+[
+  {
+    "timestamp": "2026-03-11T12:50:36.298479",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "healthy",
+    "statuses": {
+      "orchestrator": true,
+      "gmail_watcher": true,
+      "linkedin_watcher": true,
+      "facebook_watcher": true,
+      "instagram_watcher": true,
+      "twitter_watcher": true,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:51:43.083011",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "healthy",
+    "statuses": {
+      "orchestrator": true,
+      "gmail_watcher": true,
+      "linkedin_watcher": true,
+      "facebook_watcher": true,
+      "instagram_watcher": true,
+      "twitter_watcher": true,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:52:49.517601",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:53:57.152617",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:55:04.044614",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:56:12.127283",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:57:18.102787",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:58:25.302908",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T12:58:44.552173",
+    "action_type": "system_event",
+    "actor": "weekly_audit_script",
+    "component": "scheduler",
+    "skill_invoked": "SKILL_Weekly_CEO_Briefing",
+    "result": "triggered",
+    "source_file": "E:\\hackathon-0\\silver-tier\\AI_Employee_Vault\\Needs_Action\\WEEKLY_BRIEFING_20260311.md",
+    "dry_run": true,
+    "period": "2026-03-09 to 2026-03-15"
+  },
+  {
+    "timestamp": "2026-03-11T12:59:31.012446",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:00:36.711050",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:01:42.312740",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:02:47.930792",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:03:53.623186",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:04:59.433805",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:06:05.269160",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:07:11.077674",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:08:16.719173",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  },
+  {
+    "timestamp": "2026-03-11T13:09:23.361760",
+    "action_type": "system_event",
+    "actor": "watchdog",
+    "component": "all",
+    "result": "degraded",
+    "statuses": {
+      "orchestrator": false,
+      "gmail_watcher": false,
+      "linkedin_watcher": false,
+      "facebook_watcher": false,
+      "instagram_watcher": false,
+      "twitter_watcher": false,
+      "email-mcp": true,
+      "facebook-mcp": true,
+      "instagram-mcp": true,
+      "twitter-mcp": true,
+      "odoo-mcp": true
+    },
+    "dry_run": false
+  }
+]

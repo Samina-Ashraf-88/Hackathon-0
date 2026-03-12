@@ -1,0 +1,1050 @@
+2026-03-01T16:06:25: 2026-03-01 16:06:25,934 [Watchdog] INFO � Watchdog starting (interval: 60s, dry_run: True)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,936 [Watchdog] INFO � Monitoring 6 Python processes + 5 MCP servers
+2026-03-01T16:06:25: 2026-03-01 16:06:25,937 [Watchdog] WARNING � DRY RUN MODE � no processes will be started or restarted
+2026-03-01T16:06:25: 2026-03-01 16:06:25,939 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,939 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:06:25: 2026-03-01 16:06:25,939 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,940 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:06:25: 2026-03-01 16:06:25,940 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,940 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:06:25: 2026-03-01 16:06:25,941 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,941 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:06:25: 2026-03-01 16:06:25,942 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,942 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:06:25: 2026-03-01 16:06:25,942 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:06:25: 2026-03-01 16:06:25,942 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:06:28: 2026-03-01 16:06:28,825 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:07:28: 2026-03-01 16:07:28,826 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:07:28: 2026-03-01 16:07:28,826 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:07:28: 2026-03-01 16:07:28,827 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:07:28: 2026-03-01 16:07:28,827 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:07:28: 2026-03-01 16:07:28,828 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:07:28: 2026-03-01 16:07:28,828 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:07:28: 2026-03-01 16:07:28,828 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:07:28: 2026-03-01 16:07:28,828 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:07:28: 2026-03-01 16:07:28,829 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:07:28: 2026-03-01 16:07:28,829 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:07:28: 2026-03-01 16:07:28,829 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:07:28: 2026-03-01 16:07:28,830 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:07:31: 2026-03-01 16:07:31,435 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:08:31: 2026-03-01 16:08:31,436 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:08:31: 2026-03-01 16:08:31,437 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:08:31: 2026-03-01 16:08:31,437 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:08:31: 2026-03-01 16:08:31,437 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:08:31: 2026-03-01 16:08:31,438 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:08:31: 2026-03-01 16:08:31,438 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:08:31: 2026-03-01 16:08:31,438 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:08:31: 2026-03-01 16:08:31,438 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:08:31: 2026-03-01 16:08:31,439 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:08:31: 2026-03-01 16:08:31,439 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:08:31: 2026-03-01 16:08:31,439 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:08:31: 2026-03-01 16:08:31,440 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:08:34: 2026-03-01 16:08:34,006 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:09:34: 2026-03-01 16:09:34,007 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:09:34: 2026-03-01 16:09:34,008 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:09:34: 2026-03-01 16:09:34,008 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:09:34: 2026-03-01 16:09:34,008 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:09:34: 2026-03-01 16:09:34,009 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:09:34: 2026-03-01 16:09:34,009 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:09:34: 2026-03-01 16:09:34,009 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:09:34: 2026-03-01 16:09:34,009 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:09:34: 2026-03-01 16:09:34,010 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:09:34: 2026-03-01 16:09:34,010 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:09:34: 2026-03-01 16:09:34,010 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:09:34: 2026-03-01 16:09:34,010 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:09:36: 2026-03-01 16:09:36,642 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:10:36: 2026-03-01 16:10:36,644 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:10:36: 2026-03-01 16:10:36,644 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:10:36: 2026-03-01 16:10:36,645 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:10:36: 2026-03-01 16:10:36,645 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:10:36: 2026-03-01 16:10:36,646 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:10:36: 2026-03-01 16:10:36,646 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:10:36: 2026-03-01 16:10:36,646 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:10:36: 2026-03-01 16:10:36,647 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:10:36: 2026-03-01 16:10:36,647 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:10:36: 2026-03-01 16:10:36,647 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:10:36: 2026-03-01 16:10:36,647 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:10:36: 2026-03-01 16:10:36,648 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:10:39: 2026-03-01 16:10:39,263 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:11:39: 2026-03-01 16:11:39,265 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:11:39: 2026-03-01 16:11:39,265 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:11:39: 2026-03-01 16:11:39,266 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:11:39: 2026-03-01 16:11:39,266 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:11:39: 2026-03-01 16:11:39,267 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:11:39: 2026-03-01 16:11:39,267 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:11:39: 2026-03-01 16:11:39,267 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:11:39: 2026-03-01 16:11:39,268 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:11:39: 2026-03-01 16:11:39,268 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:11:39: 2026-03-01 16:11:39,268 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:11:39: 2026-03-01 16:11:39,269 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:11:39: 2026-03-01 16:11:39,269 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:11:41: 2026-03-01 16:11:41,995 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:12:41: 2026-03-01 16:12:41,996 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:12:42: 2026-03-01 16:12:41,998 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:12:42: 2026-03-01 16:12:41,999 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:12:42: 2026-03-01 16:12:41,999 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:12:42: 2026-03-01 16:12:42,000 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:12:42: 2026-03-01 16:12:42,000 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:12:42: 2026-03-01 16:12:42,001 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:12:42: 2026-03-01 16:12:42,001 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:12:42: 2026-03-01 16:12:42,002 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:12:42: 2026-03-01 16:12:42,003 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:12:42: 2026-03-01 16:12:42,004 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:12:42: 2026-03-01 16:12:42,004 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:12:44: 2026-03-01 16:12:44,601 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:13:44: 2026-03-01 16:13:44,607 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:13:44: 2026-03-01 16:13:44,608 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:13:44: 2026-03-01 16:13:44,608 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:13:44: 2026-03-01 16:13:44,608 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:13:44: 2026-03-01 16:13:44,609 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:13:44: 2026-03-01 16:13:44,609 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:13:44: 2026-03-01 16:13:44,609 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:13:44: 2026-03-01 16:13:44,610 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:13:44: 2026-03-01 16:13:44,610 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:13:44: 2026-03-01 16:13:44,611 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:13:44: 2026-03-01 16:13:44,611 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:13:44: 2026-03-01 16:13:44,611 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:13:47: 2026-03-01 16:13:47,304 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:14:47: 2026-03-01 16:14:47,310 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:14:47: 2026-03-01 16:14:47,311 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:14:47: 2026-03-01 16:14:47,311 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:14:47: 2026-03-01 16:14:47,312 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:14:47: 2026-03-01 16:14:47,312 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:14:47: 2026-03-01 16:14:47,312 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:14:47: 2026-03-01 16:14:47,313 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:14:47: 2026-03-01 16:14:47,313 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:14:47: 2026-03-01 16:14:47,313 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:14:47: 2026-03-01 16:14:47,313 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:14:47: 2026-03-01 16:14:47,314 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:14:47: 2026-03-01 16:14:47,314 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:14:50: 2026-03-01 16:14:50,073 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:15:50: 2026-03-01 16:15:50,080 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:15:50: 2026-03-01 16:15:50,081 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:15:50: 2026-03-01 16:15:50,082 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:15:50: 2026-03-01 16:15:50,082 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:15:50: 2026-03-01 16:15:50,082 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:15:50: 2026-03-01 16:15:50,082 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:15:50: 2026-03-01 16:15:50,083 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:15:50: 2026-03-01 16:15:50,083 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:15:50: 2026-03-01 16:15:50,083 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:15:50: 2026-03-01 16:15:50,083 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:15:50: 2026-03-01 16:15:50,083 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:15:50: 2026-03-01 16:15:50,084 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:15:52: 2026-03-01 16:15:52,748 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:16:52: 2026-03-01 16:16:52,749 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:16:52: 2026-03-01 16:16:52,750 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:16:52: 2026-03-01 16:16:52,751 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:16:52: 2026-03-01 16:16:52,751 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:16:52: 2026-03-01 16:16:52,751 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:16:52: 2026-03-01 16:16:52,752 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:16:52: 2026-03-01 16:16:52,752 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:16:52: 2026-03-01 16:16:52,753 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:16:52: 2026-03-01 16:16:52,753 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:16:52: 2026-03-01 16:16:52,754 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:16:52: 2026-03-01 16:16:52,755 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:16:52: 2026-03-01 16:16:52,755 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:16:55: 2026-03-01 16:16:55,844 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:17:55: 2026-03-01 16:17:55,845 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:17:55: 2026-03-01 16:17:55,846 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:17:55: 2026-03-01 16:17:55,846 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:17:55: 2026-03-01 16:17:55,846 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:17:55: 2026-03-01 16:17:55,847 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:17:55: 2026-03-01 16:17:55,847 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:17:55: 2026-03-01 16:17:55,848 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:17:55: 2026-03-01 16:17:55,849 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:17:55: 2026-03-01 16:17:55,849 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:17:55: 2026-03-01 16:17:55,849 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:17:55: 2026-03-01 16:17:55,850 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:17:55: 2026-03-01 16:17:55,850 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:17:58: 2026-03-01 16:17:58,510 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:18:58: 2026-03-01 16:18:58,511 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:18:58: 2026-03-01 16:18:58,512 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:18:58: 2026-03-01 16:18:58,512 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:18:58: 2026-03-01 16:18:58,513 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:18:58: 2026-03-01 16:18:58,513 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:18:58: 2026-03-01 16:18:58,513 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:18:58: 2026-03-01 16:18:58,513 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:18:58: 2026-03-01 16:18:58,514 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:18:58: 2026-03-01 16:18:58,514 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:18:58: 2026-03-01 16:18:58,514 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:18:58: 2026-03-01 16:18:58,515 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:18:58: 2026-03-01 16:18:58,515 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:19:01: 2026-03-01 16:19:01,146 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:20:01: 2026-03-01 16:20:01,148 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:20:01: 2026-03-01 16:20:01,148 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:20:01: 2026-03-01 16:20:01,149 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:20:01: 2026-03-01 16:20:01,149 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:20:01: 2026-03-01 16:20:01,150 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:20:01: 2026-03-01 16:20:01,150 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:20:01: 2026-03-01 16:20:01,150 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:20:01: 2026-03-01 16:20:01,151 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:20:01: 2026-03-01 16:20:01,151 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:20:01: 2026-03-01 16:20:01,151 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:20:01: 2026-03-01 16:20:01,152 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:20:01: 2026-03-01 16:20:01,152 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:20:03: 2026-03-01 16:20:03,821 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:21:03: 2026-03-01 16:21:03,823 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:21:03: 2026-03-01 16:21:03,823 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:21:03: 2026-03-01 16:21:03,824 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:21:03: 2026-03-01 16:21:03,824 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:21:03: 2026-03-01 16:21:03,824 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:21:03: 2026-03-01 16:21:03,825 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:21:03: 2026-03-01 16:21:03,825 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:21:03: 2026-03-01 16:21:03,826 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:21:03: 2026-03-01 16:21:03,826 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:21:03: 2026-03-01 16:21:03,826 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:21:03: 2026-03-01 16:21:03,827 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:21:03: 2026-03-01 16:21:03,827 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:21:06: 2026-03-01 16:21:06,502 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:22:06: 2026-03-01 16:22:06,503 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:22:06: 2026-03-01 16:22:06,504 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:22:06: 2026-03-01 16:22:06,504 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:22:06: 2026-03-01 16:22:06,505 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:22:06: 2026-03-01 16:22:06,505 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:22:06: 2026-03-01 16:22:06,505 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:22:06: 2026-03-01 16:22:06,506 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:22:06: 2026-03-01 16:22:06,506 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:22:06: 2026-03-01 16:22:06,506 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:22:06: 2026-03-01 16:22:06,506 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:22:06: 2026-03-01 16:22:06,507 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:22:06: 2026-03-01 16:22:06,507 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:22:09: 2026-03-01 16:22:09,169 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:23:09: 2026-03-01 16:23:09,171 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:23:09: 2026-03-01 16:23:09,171 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:23:09: 2026-03-01 16:23:09,172 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:23:09: 2026-03-01 16:23:09,172 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:23:09: 2026-03-01 16:23:09,172 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:23:09: 2026-03-01 16:23:09,173 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:23:09: 2026-03-01 16:23:09,173 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:23:09: 2026-03-01 16:23:09,173 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:23:09: 2026-03-01 16:23:09,174 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:23:09: 2026-03-01 16:23:09,174 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:23:09: 2026-03-01 16:23:09,174 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:23:09: 2026-03-01 16:23:09,175 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:23:11: 2026-03-01 16:23:11,836 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:24:11: 2026-03-01 16:24:11,837 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:24:11: 2026-03-01 16:24:11,837 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:24:11: 2026-03-01 16:24:11,838 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:24:11: 2026-03-01 16:24:11,838 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:24:11: 2026-03-01 16:24:11,839 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:24:11: 2026-03-01 16:24:11,839 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:24:11: 2026-03-01 16:24:11,839 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:24:11: 2026-03-01 16:24:11,840 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:24:11: 2026-03-01 16:24:11,840 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:24:11: 2026-03-01 16:24:11,840 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:24:11: 2026-03-01 16:24:11,841 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:24:11: 2026-03-01 16:24:11,841 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:24:14: 2026-03-01 16:24:14,930 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:25:14: 2026-03-01 16:25:14,932 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:25:14: 2026-03-01 16:25:14,933 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:25:14: 2026-03-01 16:25:14,933 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:25:14: 2026-03-01 16:25:14,934 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:25:14: 2026-03-01 16:25:14,934 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:25:14: 2026-03-01 16:25:14,934 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:25:14: 2026-03-01 16:25:14,935 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:25:14: 2026-03-01 16:25:14,935 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:25:14: 2026-03-01 16:25:14,935 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:25:14: 2026-03-01 16:25:14,936 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:25:14: 2026-03-01 16:25:14,936 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:25:14: 2026-03-01 16:25:14,936 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:25:17: 2026-03-01 16:25:17,594 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:26:17: 2026-03-01 16:26:17,595 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:26:17: 2026-03-01 16:26:17,596 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:26:17: 2026-03-01 16:26:17,597 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:26:17: 2026-03-01 16:26:17,597 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:26:17: 2026-03-01 16:26:17,597 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:26:20: 2026-03-01 16:26:20,271 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:27:20: 2026-03-01 16:27:20,273 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:27:20: 2026-03-01 16:27:20,273 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:27:20: 2026-03-01 16:27:20,274 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:27:20: 2026-03-01 16:27:20,274 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:27:20: 2026-03-01 16:27:20,275 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:27:20: 2026-03-01 16:27:20,275 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:27:20: 2026-03-01 16:27:20,276 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:27:20: 2026-03-01 16:27:20,276 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:27:20: 2026-03-01 16:27:20,276 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:27:20: 2026-03-01 16:27:20,277 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:27:20: 2026-03-01 16:27:20,277 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:27:20: 2026-03-01 16:27:20,277 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:27:22: 2026-03-01 16:27:22,869 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:28:22: 2026-03-01 16:28:22,870 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:28:22: 2026-03-01 16:28:22,871 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:28:22: 2026-03-01 16:28:22,871 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:28:22: 2026-03-01 16:28:22,871 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:28:22: 2026-03-01 16:28:22,872 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:28:22: 2026-03-01 16:28:22,872 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:28:22: 2026-03-01 16:28:22,873 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:28:22: 2026-03-01 16:28:22,873 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:28:22: 2026-03-01 16:28:22,873 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:28:22: 2026-03-01 16:28:22,874 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:28:22: 2026-03-01 16:28:22,874 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:28:22: 2026-03-01 16:28:22,874 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:28:25: 2026-03-01 16:28:25,615 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:29:25: 2026-03-01 16:29:25,616 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:29:25: 2026-03-01 16:29:25,617 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:29:25: 2026-03-01 16:29:25,617 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:29:25: 2026-03-01 16:29:25,618 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:29:25: 2026-03-01 16:29:25,618 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:29:25: 2026-03-01 16:29:25,618 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:29:25: 2026-03-01 16:29:25,619 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:29:25: 2026-03-01 16:29:25,619 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:29:25: 2026-03-01 16:29:25,619 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:29:25: 2026-03-01 16:29:25,619 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:29:25: 2026-03-01 16:29:25,620 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:29:25: 2026-03-01 16:29:25,620 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:29:28: 2026-03-01 16:29:28,269 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:30:28: 2026-03-01 16:30:28,271 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:30:28: 2026-03-01 16:30:28,272 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:30:28: 2026-03-01 16:30:28,272 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:30:28: 2026-03-01 16:30:28,272 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:30:28: 2026-03-01 16:30:28,273 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:30:28: 2026-03-01 16:30:28,273 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:30:28: 2026-03-01 16:30:28,273 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:30:28: 2026-03-01 16:30:28,274 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:30:28: 2026-03-01 16:30:28,274 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:30:28: 2026-03-01 16:30:28,274 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:30:28: 2026-03-01 16:30:28,275 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:30:28: 2026-03-01 16:30:28,275 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:30:30: 2026-03-01 16:30:30,920 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:31:30: 2026-03-01 16:31:30,922 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:31:30: 2026-03-01 16:31:30,922 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:31:30: 2026-03-01 16:31:30,923 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:31:30: 2026-03-01 16:31:30,923 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:31:30: 2026-03-01 16:31:30,924 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:31:30: 2026-03-01 16:31:30,924 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:31:30: 2026-03-01 16:31:30,924 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:31:30: 2026-03-01 16:31:30,925 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:31:30: 2026-03-01 16:31:30,925 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:31:30: 2026-03-01 16:31:30,925 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:31:30: 2026-03-01 16:31:30,925 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:31:30: 2026-03-01 16:31:30,926 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:31:33: 2026-03-01 16:31:33,641 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:32:33: 2026-03-01 16:32:33,642 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:32:33: 2026-03-01 16:32:33,642 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:32:33: 2026-03-01 16:32:33,643 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:32:33: 2026-03-01 16:32:33,643 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:32:33: 2026-03-01 16:32:33,643 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:32:33: 2026-03-01 16:32:33,644 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:32:33: 2026-03-01 16:32:33,644 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:32:33: 2026-03-01 16:32:33,644 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:32:33: 2026-03-01 16:32:33,645 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:32:33: 2026-03-01 16:32:33,645 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:32:33: 2026-03-01 16:32:33,645 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:32:33: 2026-03-01 16:32:33,646 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:32:36: 2026-03-01 16:32:36,371 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:33:36: 2026-03-01 16:33:36,373 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:33:36: 2026-03-01 16:33:36,373 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:33:36: 2026-03-01 16:33:36,374 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:33:36: 2026-03-01 16:33:36,374 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:33:36: 2026-03-01 16:33:36,375 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:33:36: 2026-03-01 16:33:36,375 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:33:36: 2026-03-01 16:33:36,375 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:33:36: 2026-03-01 16:33:36,376 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:33:36: 2026-03-01 16:33:36,376 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:33:36: 2026-03-01 16:33:36,376 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:33:36: 2026-03-01 16:33:36,377 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:33:36: 2026-03-01 16:33:36,377 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:33:39: 2026-03-01 16:33:39,050 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:34:39: 2026-03-01 16:34:39,052 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:34:39: 2026-03-01 16:34:39,052 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:34:39: 2026-03-01 16:34:39,053 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:34:39: 2026-03-01 16:34:39,053 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:34:39: 2026-03-01 16:34:39,053 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:34:39: 2026-03-01 16:34:39,054 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:34:39: 2026-03-01 16:34:39,054 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:34:39: 2026-03-01 16:34:39,054 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:34:39: 2026-03-01 16:34:39,055 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:34:39: 2026-03-01 16:34:39,055 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:34:39: 2026-03-01 16:34:39,055 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:34:39: 2026-03-01 16:34:39,056 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:34:41: 2026-03-01 16:34:41,803 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:35:41: 2026-03-01 16:35:41,817 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:35:41: 2026-03-01 16:35:41,817 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:35:41: 2026-03-01 16:35:41,818 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:35:41: 2026-03-01 16:35:41,818 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:35:41: 2026-03-01 16:35:41,819 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:35:41: 2026-03-01 16:35:41,819 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:35:41: 2026-03-01 16:35:41,819 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:35:41: 2026-03-01 16:35:41,820 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:35:41: 2026-03-01 16:35:41,820 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:35:41: 2026-03-01 16:35:41,820 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:35:41: 2026-03-01 16:35:41,821 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:35:41: 2026-03-01 16:35:41,821 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:35:44: 2026-03-01 16:35:44,508 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:36:44: 2026-03-01 16:36:44,509 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:36:44: 2026-03-01 16:36:44,510 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:36:44: 2026-03-01 16:36:44,510 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:36:44: 2026-03-01 16:36:44,511 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:36:44: 2026-03-01 16:36:44,512 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:36:44: 2026-03-01 16:36:44,512 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:36:44: 2026-03-01 16:36:44,513 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:36:44: 2026-03-01 16:36:44,513 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:36:44: 2026-03-01 16:36:44,513 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:36:44: 2026-03-01 16:36:44,514 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:36:44: 2026-03-01 16:36:44,514 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:36:44: 2026-03-01 16:36:44,514 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:36:47: 2026-03-01 16:36:47,171 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:37:47: 2026-03-01 16:37:47,172 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:37:47: 2026-03-01 16:37:47,173 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:37:47: 2026-03-01 16:37:47,173 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:37:47: 2026-03-01 16:37:47,173 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:37:47: 2026-03-01 16:37:47,174 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:37:47: 2026-03-01 16:37:47,174 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:37:47: 2026-03-01 16:37:47,175 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:37:47: 2026-03-01 16:37:47,175 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:37:47: 2026-03-01 16:37:47,175 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:37:47: 2026-03-01 16:37:47,176 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:37:47: 2026-03-01 16:37:47,176 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:37:47: 2026-03-01 16:37:47,176 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:37:49: 2026-03-01 16:37:49,861 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:38:49: 2026-03-01 16:38:49,863 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:38:49: 2026-03-01 16:38:49,864 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:38:49: 2026-03-01 16:38:49,864 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:38:49: 2026-03-01 16:38:49,864 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:38:49: 2026-03-01 16:38:49,865 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:38:49: 2026-03-01 16:38:49,865 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:38:49: 2026-03-01 16:38:49,865 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:38:49: 2026-03-01 16:38:49,866 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:38:49: 2026-03-01 16:38:49,866 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:38:49: 2026-03-01 16:38:49,866 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:38:49: 2026-03-01 16:38:49,867 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:38:49: 2026-03-01 16:38:49,867 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:38:52: 2026-03-01 16:38:52,503 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:39:52: 2026-03-01 16:39:52,505 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:39:52: 2026-03-01 16:39:52,505 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:39:52: 2026-03-01 16:39:52,506 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:39:52: 2026-03-01 16:39:52,506 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:39:52: 2026-03-01 16:39:52,507 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:39:52: 2026-03-01 16:39:52,507 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:39:52: 2026-03-01 16:39:52,508 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:39:52: 2026-03-01 16:39:52,509 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:39:52: 2026-03-01 16:39:52,509 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:39:52: 2026-03-01 16:39:52,510 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:39:52: 2026-03-01 16:39:52,510 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:39:52: 2026-03-01 16:39:52,511 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:39:55: 2026-03-01 16:39:55,215 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:40:55: 2026-03-01 16:40:55,216 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:40:55: 2026-03-01 16:40:55,217 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:40:55: 2026-03-01 16:40:55,217 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:40:55: 2026-03-01 16:40:55,217 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:40:55: 2026-03-01 16:40:55,218 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:40:55: 2026-03-01 16:40:55,218 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:40:55: 2026-03-01 16:40:55,218 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:40:55: 2026-03-01 16:40:55,219 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:40:55: 2026-03-01 16:40:55,219 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:40:55: 2026-03-01 16:40:55,219 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:40:55: 2026-03-01 16:40:55,220 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:40:55: 2026-03-01 16:40:55,220 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:40:57: 2026-03-01 16:40:57,935 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:41:57: 2026-03-01 16:41:57,936 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:41:57: 2026-03-01 16:41:57,937 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:41:57: 2026-03-01 16:41:57,937 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:41:57: 2026-03-01 16:41:57,938 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:41:57: 2026-03-01 16:41:57,938 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:41:57: 2026-03-01 16:41:57,938 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:41:57: 2026-03-01 16:41:57,939 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:41:57: 2026-03-01 16:41:57,939 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:41:57: 2026-03-01 16:41:57,939 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:41:57: 2026-03-01 16:41:57,940 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:41:57: 2026-03-01 16:41:57,940 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:41:57: 2026-03-01 16:41:57,940 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:42:00: 2026-03-01 16:42:00,613 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:43:00: 2026-03-01 16:43:00,615 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:43:00: 2026-03-01 16:43:00,615 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:43:00: 2026-03-01 16:43:00,616 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:43:00: 2026-03-01 16:43:00,616 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:43:00: 2026-03-01 16:43:00,616 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:43:00: 2026-03-01 16:43:00,617 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:43:00: 2026-03-01 16:43:00,617 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:43:00: 2026-03-01 16:43:00,617 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:43:00: 2026-03-01 16:43:00,618 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:43:00: 2026-03-01 16:43:00,618 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:43:00: 2026-03-01 16:43:00,618 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:43:00: 2026-03-01 16:43:00,619 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:43:03: 2026-03-01 16:43:03,707 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:44:03: 2026-03-01 16:44:03,708 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:44:03: 2026-03-01 16:44:03,709 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:44:03: 2026-03-01 16:44:03,710 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:44:03: 2026-03-01 16:44:03,710 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:44:03: 2026-03-01 16:44:03,710 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:44:03: 2026-03-01 16:44:03,711 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:44:03: 2026-03-01 16:44:03,711 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:44:03: 2026-03-01 16:44:03,711 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:44:03: 2026-03-01 16:44:03,712 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:44:03: 2026-03-01 16:44:03,712 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:44:03: 2026-03-01 16:44:03,712 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:44:03: 2026-03-01 16:44:03,713 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:44:06: 2026-03-01 16:44:06,332 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:45:06: 2026-03-01 16:45:06,333 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:45:06: 2026-03-01 16:45:06,334 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:45:06: 2026-03-01 16:45:06,334 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:45:06: 2026-03-01 16:45:06,335 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:45:06: 2026-03-01 16:45:06,335 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:45:06: 2026-03-01 16:45:06,335 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:45:06: 2026-03-01 16:45:06,336 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:45:06: 2026-03-01 16:45:06,336 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:45:06: 2026-03-01 16:45:06,337 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:45:06: 2026-03-01 16:45:06,337 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:45:06: 2026-03-01 16:45:06,337 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:45:06: 2026-03-01 16:45:06,338 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:45:09: 2026-03-01 16:45:09,002 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:46:09: 2026-03-01 16:46:09,004 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:46:09: 2026-03-01 16:46:09,005 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:46:09: 2026-03-01 16:46:09,005 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:46:09: 2026-03-01 16:46:09,006 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:46:09: 2026-03-01 16:46:09,006 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:46:09: 2026-03-01 16:46:09,006 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:46:09: 2026-03-01 16:46:09,007 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:46:09: 2026-03-01 16:46:09,007 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:46:09: 2026-03-01 16:46:09,007 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:46:09: 2026-03-01 16:46:09,008 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:46:09: 2026-03-01 16:46:09,008 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:46:09: 2026-03-01 16:46:09,009 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:46:11: 2026-03-01 16:46:11,712 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:47:11: 2026-03-01 16:47:11,713 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:47:11: 2026-03-01 16:47:11,713 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:47:11: 2026-03-01 16:47:11,714 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:47:11: 2026-03-01 16:47:11,714 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:47:11: 2026-03-01 16:47:11,715 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:47:11: 2026-03-01 16:47:11,715 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:47:11: 2026-03-01 16:47:11,715 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:47:11: 2026-03-01 16:47:11,716 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:47:11: 2026-03-01 16:47:11,716 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:47:11: 2026-03-01 16:47:11,716 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:47:11: 2026-03-01 16:47:11,716 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:47:11: 2026-03-01 16:47:11,717 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:47:14: 2026-03-01 16:47:14,376 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:48:14: 2026-03-01 16:48:14,377 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:48:14: 2026-03-01 16:48:14,378 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:48:14: 2026-03-01 16:48:14,378 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:48:14: 2026-03-01 16:48:14,378 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:48:14: 2026-03-01 16:48:14,392 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:48:14: 2026-03-01 16:48:14,393 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:48:14: 2026-03-01 16:48:14,393 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:48:14: 2026-03-01 16:48:14,394 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:48:14: 2026-03-01 16:48:14,394 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:48:14: 2026-03-01 16:48:14,394 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:48:14: 2026-03-01 16:48:14,395 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:48:14: 2026-03-01 16:48:14,395 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:48:17: 2026-03-01 16:48:17,029 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:49:17: 2026-03-01 16:49:17,035 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:49:17: 2026-03-01 16:49:17,035 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:49:17: 2026-03-01 16:49:17,035 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:49:17: 2026-03-01 16:49:17,036 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:49:17: 2026-03-01 16:49:17,036 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:49:17: 2026-03-01 16:49:17,036 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:49:17: 2026-03-01 16:49:17,036 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:49:17: 2026-03-01 16:49:17,037 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:49:17: 2026-03-01 16:49:17,037 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:49:17: 2026-03-01 16:49:17,037 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:49:17: 2026-03-01 16:49:17,037 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:49:17: 2026-03-01 16:49:17,038 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:49:19: 2026-03-01 16:49:19,690 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:50:19: 2026-03-01 16:50:19,691 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:50:19: 2026-03-01 16:50:19,691 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:50:19: 2026-03-01 16:50:19,692 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:50:19: 2026-03-01 16:50:19,692 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:50:19: 2026-03-01 16:50:19,692 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:50:19: 2026-03-01 16:50:19,693 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:50:19: 2026-03-01 16:50:19,693 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:50:19: 2026-03-01 16:50:19,693 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:50:19: 2026-03-01 16:50:19,694 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:50:19: 2026-03-01 16:50:19,694 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:50:19: 2026-03-01 16:50:19,694 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:50:19: 2026-03-01 16:50:19,695 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:50:22: 2026-03-01 16:50:22,362 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:51:22: 2026-03-01 16:51:22,364 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:51:22: 2026-03-01 16:51:22,364 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:51:22: 2026-03-01 16:51:22,365 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:51:22: 2026-03-01 16:51:22,365 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:51:22: 2026-03-01 16:51:22,365 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:51:22: 2026-03-01 16:51:22,366 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:51:22: 2026-03-01 16:51:22,366 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:51:22: 2026-03-01 16:51:22,366 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:51:22: 2026-03-01 16:51:22,367 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:51:22: 2026-03-01 16:51:22,367 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:51:22: 2026-03-01 16:51:22,367 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:51:22: 2026-03-01 16:51:22,368 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:51:24: 2026-03-01 16:51:24,943 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:52:24: 2026-03-01 16:52:24,945 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:52:24: 2026-03-01 16:52:24,946 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:52:24: 2026-03-01 16:52:24,946 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:52:24: 2026-03-01 16:52:24,946 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:52:24: 2026-03-01 16:52:24,947 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:52:24: 2026-03-01 16:52:24,947 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:52:24: 2026-03-01 16:52:24,947 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:52:24: 2026-03-01 16:52:24,948 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:52:24: 2026-03-01 16:52:24,948 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:52:24: 2026-03-01 16:52:24,949 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:52:24: 2026-03-01 16:52:24,949 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:52:24: 2026-03-01 16:52:24,949 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:52:27: 2026-03-01 16:52:27,622 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:53:27: 2026-03-01 16:53:27,623 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:53:27: 2026-03-01 16:53:27,624 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:53:27: 2026-03-01 16:53:27,624 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:53:27: 2026-03-01 16:53:27,625 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:53:27: 2026-03-01 16:53:27,625 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:53:27: 2026-03-01 16:53:27,625 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:53:27: 2026-03-01 16:53:27,626 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:53:27: 2026-03-01 16:53:27,626 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:53:27: 2026-03-01 16:53:27,626 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:53:27: 2026-03-01 16:53:27,626 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:53:27: 2026-03-01 16:53:27,627 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:53:27: 2026-03-01 16:53:27,627 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:53:30: 2026-03-01 16:53:30,272 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:54:30: 2026-03-01 16:54:30,272 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:54:30: 2026-03-01 16:54:30,273 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:54:30: 2026-03-01 16:54:30,273 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:54:30: 2026-03-01 16:54:30,273 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:54:30: 2026-03-01 16:54:30,273 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:54:30: 2026-03-01 16:54:30,274 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:54:30: 2026-03-01 16:54:30,274 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:54:30: 2026-03-01 16:54:30,274 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:54:30: 2026-03-01 16:54:30,274 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:54:30: 2026-03-01 16:54:30,275 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:54:30: 2026-03-01 16:54:30,275 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:54:30: 2026-03-01 16:54:30,275 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:54:32: 2026-03-01 16:54:32,922 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:55:32: 2026-03-01 16:55:32,923 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:55:32: 2026-03-01 16:55:32,924 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:55:32: 2026-03-01 16:55:32,924 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:55:32: 2026-03-01 16:55:32,924 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:55:32: 2026-03-01 16:55:32,925 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:55:32: 2026-03-01 16:55:32,925 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:55:32: 2026-03-01 16:55:32,926 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:55:32: 2026-03-01 16:55:32,926 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:55:32: 2026-03-01 16:55:32,926 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:55:32: 2026-03-01 16:55:32,927 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:55:32: 2026-03-01 16:55:32,927 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:55:32: 2026-03-01 16:55:32,928 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:55:35: 2026-03-01 16:55:35,614 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:56:35: 2026-03-01 16:56:35,615 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:56:35: 2026-03-01 16:56:35,616 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:56:35: 2026-03-01 16:56:35,616 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:56:35: 2026-03-01 16:56:35,617 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:56:35: 2026-03-01 16:56:35,617 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:56:35: 2026-03-01 16:56:35,617 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:56:35: 2026-03-01 16:56:35,617 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:56:35: 2026-03-01 16:56:35,618 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:56:35: 2026-03-01 16:56:35,618 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:56:35: 2026-03-01 16:56:35,618 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:56:35: 2026-03-01 16:56:35,619 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:56:35: 2026-03-01 16:56:35,619 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:56:38: 2026-03-01 16:56:38,169 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:57:38: 2026-03-01 16:57:38,170 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:57:38: 2026-03-01 16:57:38,171 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:57:38: 2026-03-01 16:57:38,171 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:57:38: 2026-03-01 16:57:38,172 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:57:38: 2026-03-01 16:57:38,172 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:57:38: 2026-03-01 16:57:38,172 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:57:38: 2026-03-01 16:57:38,173 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:57:38: 2026-03-01 16:57:38,173 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:57:38: 2026-03-01 16:57:38,174 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:57:38: 2026-03-01 16:57:38,174 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:57:38: 2026-03-01 16:57:38,174 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:57:38: 2026-03-01 16:57:38,175 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:57:40: 2026-03-01 16:57:40,871 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:58:40: 2026-03-01 16:58:40,873 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:58:40: 2026-03-01 16:58:40,873 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:58:40: 2026-03-01 16:58:40,874 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:58:40: 2026-03-01 16:58:40,875 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:58:40: 2026-03-01 16:58:40,875 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:58:40: 2026-03-01 16:58:40,875 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:58:40: 2026-03-01 16:58:40,876 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:58:40: 2026-03-01 16:58:40,876 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:58:40: 2026-03-01 16:58:40,876 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:58:40: 2026-03-01 16:58:40,877 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:58:40: 2026-03-01 16:58:40,877 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:58:40: 2026-03-01 16:58:40,877 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:58:43: 2026-03-01 16:58:43,535 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-01T16:59:43: 2026-03-01 16:59:43,536 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-01T16:59:43: 2026-03-01 16:59:43,536 [Watchdog] INFO � [DRY RUN] Would start: orchestrator
+2026-03-01T16:59:43: 2026-03-01 16:59:43,536 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-01T16:59:43: 2026-03-01 16:59:43,536 [Watchdog] INFO � [DRY RUN] Would start: gmail_watcher
+2026-03-01T16:59:43: 2026-03-01 16:59:43,536 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-01T16:59:43: 2026-03-01 16:59:43,537 [Watchdog] INFO � [DRY RUN] Would start: linkedin_watcher
+2026-03-01T16:59:43: 2026-03-01 16:59:43,537 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-01T16:59:43: 2026-03-01 16:59:43,537 [Watchdog] INFO � [DRY RUN] Would start: facebook_watcher
+2026-03-01T16:59:43: 2026-03-01 16:59:43,537 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-01T16:59:43: 2026-03-01 16:59:43,538 [Watchdog] INFO � [DRY RUN] Would start: instagram_watcher
+2026-03-01T16:59:43: 2026-03-01 16:59:43,538 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-01T16:59:43: 2026-03-01 16:59:43,538 [Watchdog] INFO � [DRY RUN] Would start: twitter_watcher
+2026-03-01T16:59:46: 2026-03-01 16:59:46,138 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:47:09: 2026-03-11 12:47:09,857 [Watchdog] INFO � Watchdog starting (interval: 60s, dry_run: False)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,857 [Watchdog] INFO � Monitoring 6 Python processes + 5 MCP servers
+2026-03-11T12:47:09: 2026-03-11 12:47:09,858 [Watchdog] WARNING � orchestrator is NOT running (PID: None)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,869 [Watchdog] INFO � Started orchestrator (PID: 3256)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,870 [Watchdog] WARNING � gmail_watcher is NOT running (PID: None)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,879 [Watchdog] INFO � Started gmail_watcher (PID: 5152)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,879 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: None)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,887 [Watchdog] INFO � Started linkedin_watcher (PID: 12768)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,887 [Watchdog] WARNING � facebook_watcher is NOT running (PID: None)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,896 [Watchdog] INFO � Started facebook_watcher (PID: 19548)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,896 [Watchdog] WARNING � instagram_watcher is NOT running (PID: None)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,904 [Watchdog] INFO � Started instagram_watcher (PID: 3380)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,904 [Watchdog] WARNING � twitter_watcher is NOT running (PID: None)
+2026-03-11T12:47:09: 2026-03-11 12:47:09,913 [Watchdog] INFO � Started twitter_watcher (PID: 6628)
+2026-03-11T12:47:14: 2026-03-11 12:47:14,763 [Watchdog] INFO � Health: 11/11 components OK
+2026-03-11T12:48:15: 2026-03-11 12:48:15,272 [Watchdog] WARNING � orchestrator is NOT running (PID: 3256)
+2026-03-11T12:48:15: 2026-03-11 12:48:15,285 [Watchdog] INFO � Started orchestrator (PID: 13692)
+2026-03-11T12:48:16: 2026-03-11 12:48:16,074 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 5152)
+2026-03-11T12:48:16: 2026-03-11 12:48:16,080 [Watchdog] INFO � Started gmail_watcher (PID: 2396)
+2026-03-11T12:48:16: 2026-03-11 12:48:16,533 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 12768)
+2026-03-11T12:48:16: 2026-03-11 12:48:16,543 [Watchdog] INFO � Started linkedin_watcher (PID: 15464)
+2026-03-11T12:48:17: 2026-03-11 12:48:17,042 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 19548)
+2026-03-11T12:48:17: 2026-03-11 12:48:17,063 [Watchdog] INFO � Started facebook_watcher (PID: 9508)
+2026-03-11T12:48:17: 2026-03-11 12:48:17,578 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 3380)
+2026-03-11T12:48:17: 2026-03-11 12:48:17,583 [Watchdog] INFO � Started instagram_watcher (PID: 20176)
+2026-03-11T12:48:18: 2026-03-11 12:48:18,058 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 6628)
+2026-03-11T12:48:18: 2026-03-11 12:48:18,061 [Watchdog] INFO � Started twitter_watcher (PID: 2020)
+2026-03-11T12:48:22: 2026-03-11 12:48:22,400 [Watchdog] INFO � Health: 11/11 components OK
+2026-03-11T12:49:22: 2026-03-11 12:49:22,620 [Watchdog] WARNING � orchestrator is NOT running (PID: 13692)
+2026-03-11T12:49:22: 2026-03-11 12:49:22,642 [Watchdog] INFO � Started orchestrator (PID: 18356)
+2026-03-11T12:49:22: 2026-03-11 12:49:22,906 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 2396)
+2026-03-11T12:49:22: 2026-03-11 12:49:22,911 [Watchdog] INFO � Started gmail_watcher (PID: 9980)
+2026-03-11T12:49:23: 2026-03-11 12:49:23,390 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 15464)
+2026-03-11T12:49:23: 2026-03-11 12:49:23,403 [Watchdog] INFO � Started linkedin_watcher (PID: 14568)
+2026-03-11T12:49:23: 2026-03-11 12:49:23,859 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 9508)
+2026-03-11T12:49:23: 2026-03-11 12:49:23,870 [Watchdog] INFO � Started facebook_watcher (PID: 14816)
+2026-03-11T12:49:24: 2026-03-11 12:49:24,320 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20176)
+2026-03-11T12:49:24: 2026-03-11 12:49:24,327 [Watchdog] INFO � Started instagram_watcher (PID: 15504)
+2026-03-11T12:49:24: 2026-03-11 12:49:24,863 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 2020)
+2026-03-11T12:49:24: 2026-03-11 12:49:24,879 [Watchdog] INFO � Started twitter_watcher (PID: 17560)
+2026-03-11T12:49:29: 2026-03-11 12:49:29,433 [Watchdog] INFO � Health: 11/11 components OK
+2026-03-11T12:50:29: 2026-03-11 12:50:29,767 [Watchdog] WARNING � orchestrator is NOT running (PID: 18356)
+2026-03-11T12:50:29: 2026-03-11 12:50:29,776 [Watchdog] INFO � Started orchestrator (PID: 22112)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,178 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 9980)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,183 [Watchdog] INFO � Started gmail_watcher (PID: 7064)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,495 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 14568)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,499 [Watchdog] INFO � Started linkedin_watcher (PID: 9248)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,733 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 14816)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,738 [Watchdog] INFO � Started facebook_watcher (PID: 13292)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,985 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 15504)
+2026-03-11T12:50:30: 2026-03-11 12:50:30,991 [Watchdog] INFO � Started instagram_watcher (PID: 14408)
+2026-03-11T12:50:31: 2026-03-11 12:50:31,260 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 17560)
+2026-03-11T12:50:31: 2026-03-11 12:50:31,264 [Watchdog] INFO � Started twitter_watcher (PID: 13600)
+2026-03-11T12:50:36: 2026-03-11 12:50:36,300 [Watchdog] INFO � Health: 11/11 components OK
+2026-03-11T12:51:36: 2026-03-11 12:51:36,482 [Watchdog] WARNING � orchestrator is NOT running (PID: 22112)
+2026-03-11T12:51:36: 2026-03-11 12:51:36,485 [Watchdog] INFO � Started orchestrator (PID: 11612)
+2026-03-11T12:51:36: 2026-03-11 12:51:36,683 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 7064)
+2026-03-11T12:51:36: 2026-03-11 12:51:36,686 [Watchdog] INFO � Started gmail_watcher (PID: 12584)
+2026-03-11T12:51:37: 2026-03-11 12:51:37,057 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 9248)
+2026-03-11T12:51:37: 2026-03-11 12:51:37,065 [Watchdog] INFO � Started linkedin_watcher (PID: 20648)
+2026-03-11T12:51:37: 2026-03-11 12:51:37,502 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 13292)
+2026-03-11T12:51:37: 2026-03-11 12:51:37,509 [Watchdog] INFO � Started facebook_watcher (PID: 18740)
+2026-03-11T12:51:37: 2026-03-11 12:51:37,964 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 14408)
+2026-03-11T12:51:37: 2026-03-11 12:51:37,971 [Watchdog] INFO � Started instagram_watcher (PID: 20872)
+2026-03-11T12:51:38: 2026-03-11 12:51:38,455 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 13600)
+2026-03-11T12:51:38: 2026-03-11 12:51:38,468 [Watchdog] INFO � Started twitter_watcher (PID: 18760)
+2026-03-11T12:51:43: 2026-03-11 12:51:43,085 [Watchdog] INFO � Health: 11/11 components OK
+2026-03-11T12:52:43: 2026-03-11 12:52:43,256 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:52:43: 2026-03-11 12:52:43,256 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:52:43: 2026-03-11 12:52:43,257 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125243.md
+2026-03-11T12:52:43: 2026-03-11 12:52:43,459 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:52:43: 2026-03-11 12:52:43,459 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:52:43: 2026-03-11 12:52:43,460 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125243.md
+2026-03-11T12:52:43: 2026-03-11 12:52:43,622 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:52:43: 2026-03-11 12:52:43,622 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:52:43: 2026-03-11 12:52:43,623 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125243.md
+2026-03-11T12:52:43: 2026-03-11 12:52:43,786 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:52:43: 2026-03-11 12:52:43,786 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:52:43: 2026-03-11 12:52:43,787 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125243.md
+2026-03-11T12:52:43: 2026-03-11 12:52:43,956 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:52:43: 2026-03-11 12:52:43,956 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:52:43: 2026-03-11 12:52:43,957 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125243.md
+2026-03-11T12:52:44: 2026-03-11 12:52:44,124 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:52:44: 2026-03-11 12:52:44,124 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:52:44: 2026-03-11 12:52:44,125 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125244.md
+2026-03-11T12:52:49: 2026-03-11 12:52:49,518 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:53:50: 2026-03-11 12:53:50,242 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:53:50: 2026-03-11 12:53:50,243 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:53:50: 2026-03-11 12:53:50,244 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125350.md
+2026-03-11T12:53:50: 2026-03-11 12:53:50,789 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:53:50: 2026-03-11 12:53:50,789 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:53:50: 2026-03-11 12:53:50,793 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125350.md
+2026-03-11T12:53:51: 2026-03-11 12:53:51,284 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:53:51: 2026-03-11 12:53:51,285 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:53:51: 2026-03-11 12:53:51,288 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125351.md
+2026-03-11T12:53:51: 2026-03-11 12:53:51,671 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:53:51: 2026-03-11 12:53:51,672 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:53:51: 2026-03-11 12:53:51,675 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125351.md
+2026-03-11T12:53:52: 2026-03-11 12:53:52,104 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:53:52: 2026-03-11 12:53:52,104 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:53:52: 2026-03-11 12:53:52,105 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125352.md
+2026-03-11T12:53:52: 2026-03-11 12:53:52,513 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:53:52: 2026-03-11 12:53:52,514 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:53:52: 2026-03-11 12:53:52,515 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125352.md
+2026-03-11T12:53:57: 2026-03-11 12:53:57,153 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:54:57: 2026-03-11 12:54:57,336 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:54:57: 2026-03-11 12:54:57,336 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:54:57: 2026-03-11 12:54:57,337 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125457.md
+2026-03-11T12:54:57: 2026-03-11 12:54:57,531 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:54:57: 2026-03-11 12:54:57,531 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:54:57: 2026-03-11 12:54:57,533 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125457.md
+2026-03-11T12:54:57: 2026-03-11 12:54:57,824 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:54:57: 2026-03-11 12:54:57,824 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:54:57: 2026-03-11 12:54:57,825 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125457.md
+2026-03-11T12:54:58: 2026-03-11 12:54:58,177 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:54:58: 2026-03-11 12:54:58,177 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:54:58: 2026-03-11 12:54:58,178 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125458.md
+2026-03-11T12:54:59: 2026-03-11 12:54:59,030 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:54:59: 2026-03-11 12:54:59,031 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:54:59: 2026-03-11 12:54:59,033 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125459.md
+2026-03-11T12:54:59: 2026-03-11 12:54:59,445 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:54:59: 2026-03-11 12:54:59,445 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:54:59: 2026-03-11 12:54:59,446 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125459.md
+2026-03-11T12:55:04: 2026-03-11 12:55:04,046 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:56:04: 2026-03-11 12:56:04,488 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:56:04: 2026-03-11 12:56:04,489 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:56:04: 2026-03-11 12:56:04,491 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125604.md
+2026-03-11T12:56:04: 2026-03-11 12:56:04,941 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:56:04: 2026-03-11 12:56:04,941 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:56:04: 2026-03-11 12:56:04,946 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125604.md
+2026-03-11T12:56:05: 2026-03-11 12:56:05,394 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:56:05: 2026-03-11 12:56:05,396 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:56:05: 2026-03-11 12:56:05,398 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125605.md
+2026-03-11T12:56:06: 2026-03-11 12:56:06,049 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:56:06: 2026-03-11 12:56:06,049 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:56:06: 2026-03-11 12:56:06,051 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125606.md
+2026-03-11T12:56:06: 2026-03-11 12:56:06,800 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:56:06: 2026-03-11 12:56:06,801 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:56:06: 2026-03-11 12:56:06,803 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125606.md
+2026-03-11T12:56:07: 2026-03-11 12:56:07,442 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:56:07: 2026-03-11 12:56:07,448 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:56:07: 2026-03-11 12:56:07,454 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125607.md
+2026-03-11T12:56:12: 2026-03-11 12:56:12,129 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:57:12: 2026-03-11 12:57:12,291 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:57:12: 2026-03-11 12:57:12,291 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:57:12: 2026-03-11 12:57:12,292 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125712.md
+2026-03-11T12:57:12: 2026-03-11 12:57:12,470 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:57:12: 2026-03-11 12:57:12,470 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:57:12: 2026-03-11 12:57:12,471 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125712.md
+2026-03-11T12:57:12: 2026-03-11 12:57:12,647 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:57:12: 2026-03-11 12:57:12,647 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:57:12: 2026-03-11 12:57:12,648 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125712.md
+2026-03-11T12:57:12: 2026-03-11 12:57:12,835 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:57:12: 2026-03-11 12:57:12,835 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:57:12: 2026-03-11 12:57:12,836 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125712.md
+2026-03-11T12:57:13: 2026-03-11 12:57:13,096 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:57:13: 2026-03-11 12:57:13,096 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:57:13: 2026-03-11 12:57:13,098 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125713.md
+2026-03-11T12:57:13: 2026-03-11 12:57:13,436 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:57:13: 2026-03-11 12:57:13,436 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:57:13: 2026-03-11 12:57:13,438 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125713.md
+2026-03-11T12:57:18: 2026-03-11 12:57:18,104 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:58:18: 2026-03-11 12:58:18,472 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:58:18: 2026-03-11 12:58:18,472 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:58:18: 2026-03-11 12:58:18,474 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125818.md
+2026-03-11T12:58:18: 2026-03-11 12:58:18,829 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:58:18: 2026-03-11 12:58:18,830 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:58:18: 2026-03-11 12:58:18,834 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125818.md
+2026-03-11T12:58:19: 2026-03-11 12:58:19,211 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:58:19: 2026-03-11 12:58:19,212 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:58:19: 2026-03-11 12:58:19,215 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125819.md
+2026-03-11T12:58:19: 2026-03-11 12:58:19,799 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:58:19: 2026-03-11 12:58:19,800 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:58:19: 2026-03-11 12:58:19,801 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125819.md
+2026-03-11T12:58:20: 2026-03-11 12:58:20,242 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:58:20: 2026-03-11 12:58:20,243 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:58:20: 2026-03-11 12:58:20,246 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125820.md
+2026-03-11T12:58:20: 2026-03-11 12:58:20,640 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:58:20: 2026-03-11 12:58:20,640 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:58:20: 2026-03-11 12:58:20,642 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125820.md
+2026-03-11T12:58:25: 2026-03-11 12:58:25,304 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T12:59:25: 2026-03-11 12:59:25,513 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T12:59:25: 2026-03-11 12:59:25,513 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:59:25: 2026-03-11 12:59:25,514 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_125925.md
+2026-03-11T12:59:25: 2026-03-11 12:59:25,726 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T12:59:25: 2026-03-11 12:59:25,727 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:59:25: 2026-03-11 12:59:25,730 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_125925.md
+2026-03-11T12:59:25: 2026-03-11 12:59:25,916 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T12:59:25: 2026-03-11 12:59:25,916 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:59:25: 2026-03-11 12:59:25,917 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_125925.md
+2026-03-11T12:59:26: 2026-03-11 12:59:26,072 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T12:59:26: 2026-03-11 12:59:26,072 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:59:26: 2026-03-11 12:59:26,072 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_125926.md
+2026-03-11T12:59:26: 2026-03-11 12:59:26,239 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T12:59:26: 2026-03-11 12:59:26,239 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:59:26: 2026-03-11 12:59:26,240 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_125926.md
+2026-03-11T12:59:26: 2026-03-11 12:59:26,407 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T12:59:26: 2026-03-11 12:59:26,407 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T12:59:26: 2026-03-11 12:59:26,408 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_125926.md
+2026-03-11T12:59:31: 2026-03-11 12:59:31,014 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:00:31: 2026-03-11 13:00:31,187 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:00:31: 2026-03-11 13:00:31,187 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:00:31: 2026-03-11 13:00:31,188 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130031.md
+2026-03-11T13:00:31: 2026-03-11 13:00:31,360 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:00:31: 2026-03-11 13:00:31,360 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:00:31: 2026-03-11 13:00:31,361 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130031.md
+2026-03-11T13:00:31: 2026-03-11 13:00:31,528 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:00:31: 2026-03-11 13:00:31,528 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:00:31: 2026-03-11 13:00:31,529 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130031.md
+2026-03-11T13:00:31: 2026-03-11 13:00:31,696 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:00:31: 2026-03-11 13:00:31,696 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:00:31: 2026-03-11 13:00:31,697 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130031.md
+2026-03-11T13:00:31: 2026-03-11 13:00:31,914 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:00:31: 2026-03-11 13:00:31,915 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:00:31: 2026-03-11 13:00:31,916 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130031.md
+2026-03-11T13:00:32: 2026-03-11 13:00:32,104 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:00:32: 2026-03-11 13:00:32,104 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:00:32: 2026-03-11 13:00:32,105 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130032.md
+2026-03-11T13:00:36: 2026-03-11 13:00:36,712 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:01:36: 2026-03-11 13:01:36,869 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:01:36: 2026-03-11 13:01:36,869 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:01:36: 2026-03-11 13:01:36,870 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130136.md
+2026-03-11T13:01:37: 2026-03-11 13:01:37,043 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:01:37: 2026-03-11 13:01:37,043 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:01:37: 2026-03-11 13:01:37,044 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130137.md
+2026-03-11T13:01:37: 2026-03-11 13:01:37,204 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:01:37: 2026-03-11 13:01:37,204 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:01:37: 2026-03-11 13:01:37,204 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130137.md
+2026-03-11T13:01:37: 2026-03-11 13:01:37,362 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:01:37: 2026-03-11 13:01:37,362 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:01:37: 2026-03-11 13:01:37,363 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130137.md
+2026-03-11T13:01:37: 2026-03-11 13:01:37,524 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:01:37: 2026-03-11 13:01:37,525 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:01:37: 2026-03-11 13:01:37,525 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130137.md
+2026-03-11T13:01:37: 2026-03-11 13:01:37,692 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:01:37: 2026-03-11 13:01:37,692 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:01:37: 2026-03-11 13:01:37,693 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130137.md
+2026-03-11T13:01:42: 2026-03-11 13:01:42,313 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:02:42: 2026-03-11 13:02:42,469 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:02:42: 2026-03-11 13:02:42,470 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:02:42: 2026-03-11 13:02:42,470 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130242.md
+2026-03-11T13:02:42: 2026-03-11 13:02:42,639 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:02:42: 2026-03-11 13:02:42,639 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:02:42: 2026-03-11 13:02:42,640 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130242.md
+2026-03-11T13:02:42: 2026-03-11 13:02:42,816 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:02:42: 2026-03-11 13:02:42,816 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:02:42: 2026-03-11 13:02:42,817 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130242.md
+2026-03-11T13:02:43: 2026-03-11 13:02:43,015 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:02:43: 2026-03-11 13:02:43,015 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:02:43: 2026-03-11 13:02:43,016 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130243.md
+2026-03-11T13:02:43: 2026-03-11 13:02:43,177 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:02:43: 2026-03-11 13:02:43,177 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:02:43: 2026-03-11 13:02:43,178 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130243.md
+2026-03-11T13:02:43: 2026-03-11 13:02:43,343 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:02:43: 2026-03-11 13:02:43,343 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:02:43: 2026-03-11 13:02:43,344 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130243.md
+2026-03-11T13:02:47: 2026-03-11 13:02:47,931 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:03:48: 2026-03-11 13:03:48,124 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:03:48: 2026-03-11 13:03:48,124 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:03:48: 2026-03-11 13:03:48,125 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130348.md
+2026-03-11T13:03:48: 2026-03-11 13:03:48,292 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:03:48: 2026-03-11 13:03:48,292 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:03:48: 2026-03-11 13:03:48,293 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130348.md
+2026-03-11T13:03:48: 2026-03-11 13:03:48,451 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:03:48: 2026-03-11 13:03:48,451 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:03:48: 2026-03-11 13:03:48,452 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130348.md
+2026-03-11T13:03:48: 2026-03-11 13:03:48,614 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:03:48: 2026-03-11 13:03:48,614 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:03:48: 2026-03-11 13:03:48,615 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130348.md
+2026-03-11T13:03:48: 2026-03-11 13:03:48,779 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:03:48: 2026-03-11 13:03:48,779 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:03:48: 2026-03-11 13:03:48,780 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130348.md
+2026-03-11T13:03:48: 2026-03-11 13:03:48,934 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:03:48: 2026-03-11 13:03:48,935 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:03:48: 2026-03-11 13:03:48,937 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130348.md
+2026-03-11T13:03:53: 2026-03-11 13:03:53,624 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:04:53: 2026-03-11 13:04:53,801 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:04:53: 2026-03-11 13:04:53,801 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:04:53: 2026-03-11 13:04:53,802 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130453.md
+2026-03-11T13:04:54: 2026-03-11 13:04:54,041 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:04:54: 2026-03-11 13:04:54,041 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:04:54: 2026-03-11 13:04:54,042 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130454.md
+2026-03-11T13:04:54: 2026-03-11 13:04:54,225 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:04:54: 2026-03-11 13:04:54,226 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:04:54: 2026-03-11 13:04:54,227 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130454.md
+2026-03-11T13:04:54: 2026-03-11 13:04:54,421 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:04:54: 2026-03-11 13:04:54,421 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:04:54: 2026-03-11 13:04:54,422 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130454.md
+2026-03-11T13:04:54: 2026-03-11 13:04:54,615 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:04:54: 2026-03-11 13:04:54,615 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:04:54: 2026-03-11 13:04:54,616 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130454.md
+2026-03-11T13:04:54: 2026-03-11 13:04:54,831 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:04:54: 2026-03-11 13:04:54,831 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:04:54: 2026-03-11 13:04:54,833 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130454.md
+2026-03-11T13:04:59: 2026-03-11 13:04:59,434 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:05:59: 2026-03-11 13:05:59,624 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:05:59: 2026-03-11 13:05:59,624 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:05:59: 2026-03-11 13:05:59,625 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130559.md
+2026-03-11T13:05:59: 2026-03-11 13:05:59,826 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:05:59: 2026-03-11 13:05:59,827 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:05:59: 2026-03-11 13:05:59,827 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130559.md
+2026-03-11T13:06:00: 2026-03-11 13:06:00,012 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:06:00: 2026-03-11 13:06:00,012 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:06:00: 2026-03-11 13:06:00,013 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130600.md
+2026-03-11T13:06:00: 2026-03-11 13:06:00,189 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:06:00: 2026-03-11 13:06:00,190 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:06:00: 2026-03-11 13:06:00,190 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130600.md
+2026-03-11T13:06:00: 2026-03-11 13:06:00,401 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:06:00: 2026-03-11 13:06:00,401 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:06:00: 2026-03-11 13:06:00,402 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130600.md
+2026-03-11T13:06:00: 2026-03-11 13:06:00,575 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:06:00: 2026-03-11 13:06:00,575 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:06:00: 2026-03-11 13:06:00,576 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130600.md
+2026-03-11T13:06:05: 2026-03-11 13:06:05,270 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:07:05: 2026-03-11 13:07:05,440 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:07:05: 2026-03-11 13:07:05,440 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:07:05: 2026-03-11 13:07:05,441 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130705.md
+2026-03-11T13:07:05: 2026-03-11 13:07:05,632 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:07:05: 2026-03-11 13:07:05,633 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:07:05: 2026-03-11 13:07:05,634 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130705.md
+2026-03-11T13:07:05: 2026-03-11 13:07:05,805 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:07:05: 2026-03-11 13:07:05,805 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:07:05: 2026-03-11 13:07:05,806 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130705.md
+2026-03-11T13:07:06: 2026-03-11 13:07:06,025 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:07:06: 2026-03-11 13:07:06,025 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:07:06: 2026-03-11 13:07:06,027 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130706.md
+2026-03-11T13:07:06: 2026-03-11 13:07:06,322 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:07:06: 2026-03-11 13:07:06,322 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:07:06: 2026-03-11 13:07:06,323 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130706.md
+2026-03-11T13:07:06: 2026-03-11 13:07:06,489 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:07:06: 2026-03-11 13:07:06,489 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:07:06: 2026-03-11 13:07:06,490 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130706.md
+2026-03-11T13:07:11: 2026-03-11 13:07:11,078 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:08:11: 2026-03-11 13:08:11,242 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:08:11: 2026-03-11 13:08:11,242 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:08:11: 2026-03-11 13:08:11,243 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130811.md
+2026-03-11T13:08:11: 2026-03-11 13:08:11,400 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:08:11: 2026-03-11 13:08:11,400 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:08:11: 2026-03-11 13:08:11,401 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130811.md
+2026-03-11T13:08:11: 2026-03-11 13:08:11,568 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:08:11: 2026-03-11 13:08:11,568 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:08:11: 2026-03-11 13:08:11,569 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130811.md
+2026-03-11T13:08:11: 2026-03-11 13:08:11,732 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:08:11: 2026-03-11 13:08:11,732 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:08:11: 2026-03-11 13:08:11,733 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130811.md
+2026-03-11T13:08:11: 2026-03-11 13:08:11,886 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:08:11: 2026-03-11 13:08:11,887 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:08:11: 2026-03-11 13:08:11,887 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130811.md
+2026-03-11T13:08:12: 2026-03-11 13:08:12,049 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:08:12: 2026-03-11 13:08:12,049 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:08:12: 2026-03-11 13:08:12,050 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130812.md
+2026-03-11T13:08:16: 2026-03-11 13:08:16,720 [Watchdog] INFO � Health: 5/11 components OK
+2026-03-11T13:09:17: 2026-03-11 13:09:17,047 [Watchdog] WARNING � orchestrator is NOT running (PID: 11612)
+2026-03-11T13:09:17: 2026-03-11 13:09:17,047 [Watchdog] CRITICAL � orchestrator has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:09:17: 2026-03-11 13:09:17,048 [Watchdog] INFO � Created alert: SYSTEM_ERROR_ORCHESTRATOR_20260311_130917.md
+2026-03-11T13:09:17: 2026-03-11 13:09:17,455 [Watchdog] WARNING � gmail_watcher is NOT running (PID: 12584)
+2026-03-11T13:09:17: 2026-03-11 13:09:17,455 [Watchdog] CRITICAL � gmail_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:09:17: 2026-03-11 13:09:17,457 [Watchdog] INFO � Created alert: SYSTEM_ERROR_GMAIL_WATCHER_20260311_130917.md
+2026-03-11T13:09:17: 2026-03-11 13:09:17,773 [Watchdog] WARNING � linkedin_watcher is NOT running (PID: 20648)
+2026-03-11T13:09:17: 2026-03-11 13:09:17,773 [Watchdog] CRITICAL � linkedin_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:09:17: 2026-03-11 13:09:17,775 [Watchdog] INFO � Created alert: SYSTEM_ERROR_LINKEDIN_WATCHER_20260311_130917.md
+2026-03-11T13:09:18: 2026-03-11 13:09:18,103 [Watchdog] WARNING � facebook_watcher is NOT running (PID: 18740)
+2026-03-11T13:09:18: 2026-03-11 13:09:18,103 [Watchdog] CRITICAL � facebook_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:09:18: 2026-03-11 13:09:18,105 [Watchdog] INFO � Created alert: SYSTEM_ERROR_FACEBOOK_WATCHER_20260311_130918.md
+2026-03-11T13:09:18: 2026-03-11 13:09:18,422 [Watchdog] WARNING � instagram_watcher is NOT running (PID: 20872)
+2026-03-11T13:09:18: 2026-03-11 13:09:18,422 [Watchdog] CRITICAL � instagram_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:09:18: 2026-03-11 13:09:18,423 [Watchdog] INFO � Created alert: SYSTEM_ERROR_INSTAGRAM_WATCHER_20260311_130918.md
+2026-03-11T13:09:18: 2026-03-11 13:09:18,742 [Watchdog] WARNING � twitter_watcher is NOT running (PID: 18760)
+2026-03-11T13:09:18: 2026-03-11 13:09:18,743 [Watchdog] CRITICAL � twitter_watcher has crashed 5 times in the last hour. Manual intervention needed.
+2026-03-11T13:09:18: 2026-03-11 13:09:18,744 [Watchdog] INFO � Created alert: SYSTEM_ERROR_TWITTER_WATCHER_20260311_130918.md
+2026-03-11T13:09:23: 2026-03-11 13:09:23,386 [Watchdog] INFO � Health: 5/11 components OK

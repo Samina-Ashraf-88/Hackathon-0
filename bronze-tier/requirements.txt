@@ -1,0 +1,11 @@
+# AI Employee — Bronze Tier Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# File system event monitoring (efficient OS-level watching)
+watchdog>=4.0.0
+
+# Anthropic SDK — used by process_vault.py to call Claude API
+anthropic>=0.40.0
+
+# Process management (optional — for keeping watcher alive in production)
+# pm2 is a Node.js tool; install separately: npm install -g pm2

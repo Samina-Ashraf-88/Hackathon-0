@@ -1,0 +1,9 @@
+{
+  "name": "ai-employee-gold-tier",
+  "version": "2.0.0",
+  "description": "AI Employee Gold Tier — PM2 ecosystem root",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

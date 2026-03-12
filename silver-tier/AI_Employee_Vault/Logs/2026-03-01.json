@@ -1,0 +1,188 @@
+[
+  {
+    "action_type": "email_detected",
+    "from": "LinkedIn <security-noreply@linkedin.com>",
+    "subject": "Samina, your password was successfully reset",
+    "priority": "normal",
+    "file": "EMAIL_19ca8dc56fce5135.md",
+    "timestamp": "2026-03-01T16:06:29.977326",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "LinkedIn <security-noreply@linkedin.com>",
+    "subject": "Samina, here's your PIN 075292",
+    "priority": "high",
+    "file": "EMAIL_19ca8dadde02dda9.md",
+    "timestamp": "2026-03-01T16:06:30.370678",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "LinkedIn <security-noreply@linkedin.com>",
+    "subject": "Samina, here's your PIN 296557",
+    "priority": "high",
+    "file": "EMAIL_19ca8d7dacfa687c.md",
+    "timestamp": "2026-03-01T16:06:30.707224",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "\"Odoo S.A.\" <info@odoo.com>",
+    "subject": "Welcome to Odoo S.A.!",
+    "priority": "normal",
+    "file": "EMAIL_19ca8cbd9d3cdb39.md",
+    "timestamp": "2026-03-01T16:06:31.013327",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Instagram <no-reply@mail.instagram.com>",
+    "subject": "742963 is your Instagram code",
+    "priority": "normal",
+    "file": "EMAIL_19ca816cbc2e9c94.md",
+    "timestamp": "2026-03-01T16:06:31.331685",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Facebook <registration@facebookmail.com>",
+    "subject": "87183 is your confirmation code",
+    "priority": "normal",
+    "file": "EMAIL_19ca813bbe75e83a.md",
+    "timestamp": "2026-03-01T16:06:31.663147",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "LinkedIn <security-noreply@linkedin.com>",
+    "subject": "Samina, your password was successfully reset",
+    "priority": "normal",
+    "file": "EMAIL_19c9dabe4540bbf6.md",
+    "timestamp": "2026-03-01T16:06:31.977482",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "LinkedIn <security-noreply@linkedin.com>",
+    "subject": "Samina, here's your PIN 847123",
+    "priority": "high",
+    "file": "EMAIL_19c9daa398106213.md",
+    "timestamp": "2026-03-01T16:06:32.372123",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "priority": "normal",
+    "file": "EMAIL_19c95cb809b14d91.md",
+    "timestamp": "2026-03-01T16:06:32.682922",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "priority": "normal",
+    "file": "EMAIL_19c942f3350c8b33.md",
+    "timestamp": "2026-03-01T16:06:32.998286",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "priority": "normal",
+    "file": "EMAIL_19c942e7880c08de.md",
+    "timestamp": "2026-03-01T16:06:33.310816",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Security alert",
+    "priority": "normal",
+    "file": "EMAIL_19c911edb580f02f.md",
+    "timestamp": "2026-03-01T16:06:33.636473",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google <no-reply@accounts.google.com>",
+    "subject": "Learn more about our updated Terms of Service",
+    "priority": "normal",
+    "file": "EMAIL_18f1b1c44525bb46.md",
+    "timestamp": "2026-03-01T16:06:33.986307",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google Accounts Team <no-reply@accounts.google.com>",
+    "subject": "Updating our Google Account inactivity policy",
+    "priority": "normal",
+    "file": "EMAIL_1898688746a3a585.md",
+    "timestamp": "2026-03-01T16:06:34.304481",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "email_detected",
+    "from": "Google Community Team <googlecommunityteam-noreply@google.com>",
+    "subject": "Samina, finish setting up your new Google Account",
+    "priority": "normal",
+    "file": "EMAIL_185924f36fe11462.md",
+    "timestamp": "2026-03-01T16:06:34.639490",
+    "actor": "GmailWatcher"
+  },
+  {
+    "action_type": "linkedin_notification_detected",
+    "is_lead": false,
+    "priority": "normal",
+    "file": "LINKEDIN_NOTIFICATION_li_notif_3861776481182300470.md",
+    "timestamp": "2026-03-01T16:06:58.533838",
+    "actor": "LinkedInWatcher"
+  },
+  {
+    "action_type": "linkedin_notification_detected",
+    "is_lead": false,
+    "priority": "normal",
+    "file": "LINKEDIN_NOTIFICATION_li_notif_8343159210559694532.md",
+    "timestamp": "2026-03-01T16:06:58.560323",
+    "actor": "LinkedInWatcher"
+  },
+  {
+    "action_type": "linkedin_notification_detected",
+    "is_lead": false,
+    "priority": "normal",
+    "file": "LINKEDIN_NOTIFICATION_li_notif_4424753371026252319.md",
+    "timestamp": "2026-03-01T16:06:58.587546",
+    "actor": "LinkedInWatcher"
+  },
+  {
+    "action_type": "linkedin_connection_request_detected",
+    "is_lead": true,
+    "priority": "normal",
+    "file": "LINKEDIN_CONNECTION_REQUEST_li_notif_7129445701575792977.md",
+    "timestamp": "2026-03-01T16:06:58.618261",
+    "actor": "LinkedInWatcher"
+  },
+  {
+    "action_type": "linkedin_connection_request_detected",
+    "is_lead": true,
+    "priority": "normal",
+    "file": "LINKEDIN_CONNECTION_REQUEST_li_notif_4546753711830985278.md",
+    "timestamp": "2026-03-01T16:06:58.654469",
+    "actor": "LinkedInWatcher"
+  },
+  {
+    "timestamp": "2026-03-01T16:07:20.840966",
+    "action_type": "system_event",
+    "actor": "weekly_audit_script",
+    "component": "scheduler",
+    "skill_invoked": "SKILL_Weekly_CEO_Briefing",
+    "result": "triggered",
+    "source_file": "E:\\hackathon-0\\silver-tier\\AI_Employee_Vault\\Needs_Action\\WEEKLY_BRIEFING_20260301.md",
+    "dry_run": true,
+    "period": "2026-02-23 to 2026-03-01"
+  }
+]

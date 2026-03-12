@@ -1,0 +1,30 @@
+2026-03-11 12:47:11 [LinkedInWatcher] INFO — Starting LinkedInWatcher (interval: 300s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:47:35 [LinkedInWatcher] ERROR — LinkedIn session expired. Re-run: python linkedin_watcher.py --login
+2026-03-11 12:48:17 [LinkedInWatcher] INFO — Starting LinkedInWatcher (interval: 300s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:48:27 [LinkedInWatcher] INFO — LinkedIn session active. Checking for updates...
+2026-03-11 12:48:32 [LinkedInWatcher] ERROR — Error scraping notifications: Page.goto: Page crashed
+Call log:
+  - navigating to "https://www.linkedin.com/notifications/", waiting until "domcontentloaded"
+
+2026-03-11 12:48:32 [LinkedInWatcher] INFO — Found 0 new message(s), 0 new notification(s)
+2026-03-11 12:49:24 [LinkedInWatcher] INFO — Starting LinkedInWatcher (interval: 300s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:49:32 [LinkedInWatcher] INFO — LinkedIn session active. Checking for updates...
+2026-03-11 12:49:48 [LinkedInWatcher] INFO — Found 0 new message(s), 9 new notification(s)
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Found 9 new item(s) to process
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_2844127850159505032.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_1059509450202361868.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_5568910849984568141.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_5679987904700361555.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_9039316331998387225.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_1494405839697707893.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_9113582809004903451.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_CONNECTION_REQUEST_li_notif_4967947650337516937.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Created action file: LINKEDIN_NOTIFICATION_li_notif_1686673599612412269.md
+2026-03-11 12:49:49 [LinkedInWatcher] INFO — Triggering Claude with skill: SKILL_Reasoning_Loop
+2026-03-11 12:49:49 [LinkedInWatcher] ERROR — Claude CLI not found. Install it: npm install -g @anthropic/claude-code
+2026-03-11 12:50:31 [LinkedInWatcher] INFO — Starting LinkedInWatcher (interval: 300s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:50:38 [LinkedInWatcher] INFO — LinkedIn session active. Checking for updates...
+2026-03-11 12:50:52 [LinkedInWatcher] INFO — Found 0 new message(s), 9 new notification(s)
+2026-03-11 12:51:38 [LinkedInWatcher] INFO — Starting LinkedInWatcher (interval: 300s, vault: E:\hackathon-0\silver-tier\AI_Employee_Vault)
+2026-03-11 12:51:45 [LinkedInWatcher] INFO — LinkedIn session active. Checking for updates...
+2026-03-11 12:51:53 [LinkedInWatcher] INFO — Found 0 new message(s), 9 new notification(s)

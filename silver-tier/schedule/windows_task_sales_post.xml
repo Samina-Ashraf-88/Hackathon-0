@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<!--
+  Windows Task Scheduler XML — LinkedIn Sales Post Generation
+  Runs Mon, Wed, Fri at 9:00 AM to generate a LinkedIn sales post draft.
+  Import with: schtasks /create /xml "windows_task_sales_post.xml" /tn "AIEmployee\SalesPost"
+-->
+<Task version="1.4" xmlns="http://schemas.microsoft.com/windows/2004/02/mit/task">
+  <RegistrationInfo>
+    <Date>2026-02-25T00:00:00</Date>
+    <Author>AI Employee</Author>
+    <Description>Generate LinkedIn sales post draft (Mon/Wed/Fri at 9 AM)</Description>
+    <URI>\AIEmployee\SalesPost</URI>
+  </RegistrationInfo>
+  <Triggers>
+    <!-- Monday at 9:00 AM -->
+    <CalendarTrigger>
+      <StartBoundary>2026-02-25T09:00:00</StartBoundary>
+      <Enabled>true</Enabled>
+      <ScheduleByWeek>
+        <WeeksInterval>1</WeeksInterval>
+        <DaysOfWeek>
+          <Monday />
+          <Wednesday />
+          <Friday />
+        </DaysOfWeek>
+      </ScheduleByWeek>
+    </CalendarTrigger>
+  </Triggers>
+  <Principals>
+    <Principal id="Author">
+      <LogonType>InteractiveToken</LogonType>
+      <RunLevel>LeastPrivilege</RunLevel>
+    </Principal>
+  </Principals>
+  <Settings>
+    <MultipleInstancesPolicy>IgnoreNew</MultipleInstancesPolicy>
+    <DisallowStartIfOnBatteries>false</DisallowStartIfOnBatteries>
+    <StartWhenAvailable>true</StartWhenAvailable>
+    <RunOnlyIfNetworkAvailable>true</RunOnlyIfNetworkAvailable>
+    <ExecutionTimeLimit>PT10M</ExecutionTimeLimit>
+    <Enabled>true</Enabled>
+  </Settings>
+  <Actions Context="Author">
+    <Exec>
+      <Command>C:\Python313\python.exe</Command>
+      <Arguments>E:\hackathon-0\silver-tier\watchers\orchestrator.py --trigger sales_post --vault "E:\hackathon-0\silver-tier\AI_Employee_Vault"</Arguments>
+      <WorkingDirectory>E:\hackathon-0\silver-tier</WorkingDirectory>
+    </Exec>
+  </Actions>
+</Task>

@@ -1,0 +1,42 @@
+{"level":"info","message":{"dry_run":true,"msg":"Twitter/X MCP server running","port":"3003","username":"SaminaAshr24675"},"timestamp":"2026-03-01T11:06:24.939Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T11:25:04.623Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:05:25.577Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:06:32.770Z"}
+{"level":"info","message":{"action":"create_tweet","dry_run":false,"requestId":"47e583fa-3e9b-4ea8-bfb4-69a42d00f045","text":"AI doesn't replace you — it multiplies you. 🤖"},"timestamp":"2026-03-06T17:07:16.605Z"}
+{"level":"error","message":{"error":"Tweet compose box not found — session may be expired or X.com changed its UI","requestId":"47e583fa-3e9b-4ea8-bfb4-69a42d00f045"},"timestamp":"2026-03-06T17:07:25.539Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:09:00.051Z"}
+{"level":"info","message":{"action":"create_tweet","dry_run":false,"requestId":"4d9c847f-29d0-4e19-8ce0-c80d1fb56aed","text":"AI doesn't replace you — it multiplies you. 🤖"},"timestamp":"2026-03-06T17:09:15.780Z"}
+{"level":"error","message":{"error":"Not logged in to Twitter/X — run: python watchers/social_login.py --platform twitter","requestId":"4d9c847f-29d0-4e19-8ce0-c80d1fb56aed"},"timestamp":"2026-03-06T17:09:24.546Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:10:18.967Z"}
+{"level":"info","message":{"action":"create_tweet","dry_run":false,"requestId":"d0a7e5d8-70a3-440f-b7d6-a5e7560730cc","text":"AI doesn't replace you — it multiplies you. 🤖"},"timestamp":"2026-03-06T17:10:34.308Z"}
+{"level":"info","message":{"msg":"On page: https://x.com/home","requestId":"d0a7e5d8-70a3-440f-b7d6-a5e7560730cc"},"timestamp":"2026-03-06T17:10:42.378Z"}
+{"level":"info","message":{"msg":"Clicked compose area: [data-testid=\"tweetTextarea_0\"]","requestId":"d0a7e5d8-70a3-440f-b7d6-a5e7560730cc"},"timestamp":"2026-03-06T17:10:43.181Z"}
+{"level":"info","message":{"msg":"Found active editor: [data-testid=\"tweetTextarea_0\"]","requestId":"d0a7e5d8-70a3-440f-b7d6-a5e7560730cc"},"timestamp":"2026-03-06T17:10:43.994Z"}
+{"level":"info","message":{"msg":"Clicked tweet button: [data-testid=\"tweetButtonInline\"]","requestId":"d0a7e5d8-70a3-440f-b7d6-a5e7560730cc"},"timestamp":"2026-03-06T17:10:47.761Z"}
+{"level":"info","message":{"msg":"Tweeted successfully","requestId":"d0a7e5d8-70a3-440f-b7d6-a5e7560730cc"},"timestamp":"2026-03-06T17:10:51.775Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:12:54.288Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:14:47.378Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:17:56.332Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:19:15.894Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":3003,"username":"SaminaAshr24675"},"timestamp":"2026-03-06T17:21:03.596Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":"3003","username":"SaminaAshr24675"},"timestamp":"2026-03-11T07:47:08.920Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":"3003","username":"SaminaAshr24675"},"timestamp":"2026-03-11T07:52:40.768Z"}
+{"level":"info","message":{"action":"create_tweet","dry_run":false,"requestId":"1f3c5cf6-bdda-4f8f-8c36-ec24eae55e2e","text":"Just helped a client automate their entire invoici"},"timestamp":"2026-03-11T07:54:19.415Z"}
+{"level":"info","message":{"msg":"On page: https://x.com/home","requestId":"1f3c5cf6-bdda-4f8f-8c36-ec24eae55e2e"},"timestamp":"2026-03-11T07:54:28.463Z"}
+{"level":"info","message":{"msg":"Clicked compose area: [data-testid=\"tweetTextarea_0\"]","requestId":"1f3c5cf6-bdda-4f8f-8c36-ec24eae55e2e"},"timestamp":"2026-03-11T07:54:30.008Z"}
+{"level":"info","message":{"msg":"Found active editor: [data-testid=\"tweetTextarea_0\"]","requestId":"1f3c5cf6-bdda-4f8f-8c36-ec24eae55e2e"},"timestamp":"2026-03-11T07:54:30.973Z"}
+{"level":"info","message":{"msg":"Clicked tweet button: [data-testid=\"tweetButtonInline\"]","requestId":"1f3c5cf6-bdda-4f8f-8c36-ec24eae55e2e"},"timestamp":"2026-03-11T07:54:40.110Z"}
+{"level":"info","message":{"msg":"Tweeted successfully","requestId":"1f3c5cf6-bdda-4f8f-8c36-ec24eae55e2e"},"timestamp":"2026-03-11T07:54:44.116Z"}
+{"level":"info","message":{"dry_run":false,"msg":"Twitter/X MCP server running","port":"3003","username":"SaminaAshr24675"},"timestamp":"2026-03-11T07:55:23.148Z"}
+{"level":"info","message":{"action":"create_tweet","dry_run":false,"requestId":"7512e1db-fe34-4878-b47b-a954716aaf9d","text":"Just helped a client automate their entire invoici"},"timestamp":"2026-03-11T07:55:53.487Z"}
+{"level":"info","message":{"msg":"On page: https://x.com/home","requestId":"7512e1db-fe34-4878-b47b-a954716aaf9d"},"timestamp":"2026-03-11T07:56:00.963Z"}
+{"level":"info","message":{"msg":"Clicked compose area: [data-testid=\"tweetTextarea_0\"]","requestId":"7512e1db-fe34-4878-b47b-a954716aaf9d"},"timestamp":"2026-03-11T07:56:02.587Z"}
+{"level":"info","message":{"msg":"Found active editor: [data-testid=\"tweetTextarea_0\"]","requestId":"7512e1db-fe34-4878-b47b-a954716aaf9d"},"timestamp":"2026-03-11T07:56:03.406Z"}
+{"level":"info","message":{"msg":"Clicked tweet button: [data-testid=\"tweetButtonInline\"]","requestId":"7512e1db-fe34-4878-b47b-a954716aaf9d"},"timestamp":"2026-03-11T07:56:13.314Z"}
+{"level":"info","message":{"msg":"Tweeted successfully","requestId":"7512e1db-fe34-4878-b47b-a954716aaf9d"},"timestamp":"2026-03-11T07:56:17.322Z"}
+{"level":"info","message":{"action":"create_tweet","dry_run":false,"requestId":"c17a0a94-7116-430b-96cc-b2992d7acb0a","text":"Just helped a client automate their entire invoici"},"timestamp":"2026-03-11T07:57:38.922Z"}
+{"level":"info","message":{"msg":"On page: https://x.com/home","requestId":"c17a0a94-7116-430b-96cc-b2992d7acb0a"},"timestamp":"2026-03-11T07:57:46.631Z"}
+{"level":"info","message":{"msg":"Clicked compose area: [data-testid=\"tweetTextarea_0\"]","requestId":"c17a0a94-7116-430b-96cc-b2992d7acb0a"},"timestamp":"2026-03-11T07:57:46.913Z"}
+{"level":"info","message":{"msg":"Found active editor: [data-testid=\"tweetTextarea_0\"]","requestId":"c17a0a94-7116-430b-96cc-b2992d7acb0a"},"timestamp":"2026-03-11T07:57:47.735Z"}
+{"level":"info","message":{"msg":"Clicked tweet button: [data-testid=\"tweetButtonInline\"]","requestId":"c17a0a94-7116-430b-96cc-b2992d7acb0a"},"timestamp":"2026-03-11T07:57:55.270Z"}
+{"level":"info","message":{"msg":"Tweeted successfully","requestId":"c17a0a94-7116-430b-96cc-b2992d7acb0a"},"timestamp":"2026-03-11T07:57:59.287Z"}

@@ -1,0 +1,27 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "matcher": "",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python E:/hackathon-0/silver-tier/hooks/stop_hook.py"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Read(E:/hackathon-0/silver-tier/AI_Employee_Vault/**)",
+      "Write(E:/hackathon-0/silver-tier/AI_Employee_Vault/**)",
+      "Bash(curl http://localhost:3000/*)",
+      "Bash(curl http://localhost:3001/*)",
+      "Bash(curl http://localhost:3002/*)",
+      "Bash(curl http://localhost:3003/*)",
+      "Bash(curl http://localhost:3004/*)",
+      "Bash(curl http://localhost:8069/*)"
+    ]
+  }
+}

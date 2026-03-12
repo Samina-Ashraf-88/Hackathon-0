@@ -1,0 +1,62 @@
+2026-03-01T16:06:24: {"level":"info","message":{"dry_run":true,"msg":"Facebook MCP server running","port":"3001"},"timestamp":"2026-03-01T11:06:24.740Z"}
+2026-03-01T16:06:24: {"level":"warn","message":{"msg":"DRY RUN MODE — no real Facebook actions will be executed"},"timestamp":"2026-03-01T11:06:24.759Z"}
+2026-03-01T16:06:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"f66d2f3f-0239-45ce-b556-9a678528a0a6"},"timestamp":"2026-03-01T11:06:26.175Z"}
+2026-03-01T16:06:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"ef786d91-c559-406f-83c0-8b2aa112837a"},"timestamp":"2026-03-01T11:06:26.201Z"}
+2026-03-01T16:11:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"87f97906-b20f-4d62-957b-57fecc9b1266"},"timestamp":"2026-03-01T11:11:26.238Z"}
+2026-03-01T16:11:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"fd57b9af-8d06-434a-8ffb-d06b3521d09d"},"timestamp":"2026-03-01T11:11:26.268Z"}
+2026-03-01T16:16:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"5c6b8d69-7c50-4efb-afa0-018b0ad4cf3d"},"timestamp":"2026-03-01T11:16:26.280Z"}
+2026-03-01T16:16:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"971fb440-18d9-4342-b52e-01e2bd2f09c2"},"timestamp":"2026-03-01T11:16:26.301Z"}
+2026-03-01T16:21:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"d3325336-30b1-4c28-b681-389e318af657"},"timestamp":"2026-03-01T11:21:26.315Z"}
+2026-03-01T16:21:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"30123765-5cf4-4615-b236-e579c243513f"},"timestamp":"2026-03-01T11:21:26.334Z"}
+2026-03-01T16:26:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"570095b4-4273-4d12-9d39-a18dd3a4fac7"},"timestamp":"2026-03-01T11:26:26.345Z"}
+2026-03-01T16:26:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"6923cc05-e6fa-4b50-a677-444f04d4f231"},"timestamp":"2026-03-01T11:26:26.364Z"}
+2026-03-01T16:31:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"183955c0-e63c-40a5-9e52-5c4b62222251"},"timestamp":"2026-03-01T11:31:26.395Z"}
+2026-03-01T16:31:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"940a8731-c83a-4a8a-ac4b-008b313a1132"},"timestamp":"2026-03-01T11:31:26.429Z"}
+2026-03-01T16:36:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"5ad480a8-30e1-4457-92ec-c4709ccdb573"},"timestamp":"2026-03-01T11:36:26.466Z"}
+2026-03-01T16:36:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"cc60afd2-0912-4bdc-ae8d-aee4e8cbc750"},"timestamp":"2026-03-01T11:36:26.477Z"}
+2026-03-01T16:41:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"541af7e4-ab8b-4d44-974a-e82a1b58741f"},"timestamp":"2026-03-01T11:41:26.503Z"}
+2026-03-01T16:41:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"7287fde4-a28c-42ad-ba34-e4c7edaa684e"},"timestamp":"2026-03-01T11:41:26.517Z"}
+2026-03-01T16:46:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"2f3710a9-d53b-46d4-96d0-7bb475cf1890"},"timestamp":"2026-03-01T11:46:26.557Z"}
+2026-03-01T16:46:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"29b941b1-afb4-47eb-844f-f6a8d94946cc"},"timestamp":"2026-03-01T11:46:26.567Z"}
+2026-03-01T16:51:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"fed8e6f3-781a-492e-8f63-9058f579ba64"},"timestamp":"2026-03-01T11:51:26.575Z"}
+2026-03-01T16:51:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"3351dad9-44ff-4c7d-8e0e-9317a9adb0ee"},"timestamp":"2026-03-01T11:51:26.598Z"}
+2026-03-01T16:56:26: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"efa03929-0214-41f2-beb0-6f91a0494a4d"},"timestamp":"2026-03-01T11:56:26.612Z"}
+2026-03-01T16:56:26: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"52af1bce-94d0-4e66-9150-56920576d259"},"timestamp":"2026-03-01T11:56:26.640Z"}
+2026-03-11T12:47:08: {"level":"info","message":{"dry_run":false,"msg":"Facebook MCP server running","port":"3001"},"timestamp":"2026-03-11T07:47:08.817Z"}
+2026-03-11T12:47:09: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"77c35ec3-a37a-4c93-a452-40e0e683a64e"},"timestamp":"2026-03-11T07:47:09.255Z"}
+2026-03-11T12:47:09: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"c3e1329e-b1e3-4e4f-b3b3-2fe7336200ab"},"timestamp":"2026-03-11T07:47:09.282Z"}
+2026-03-11T12:47:12: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"97f71eef-195e-4e94-a24c-823615abf396"},"timestamp":"2026-03-11T07:47:12.523Z"}
+2026-03-11T12:47:12: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"d7240585-510a-446d-9a0f-a3acfc636fe2"},"timestamp":"2026-03-11T07:47:12.534Z"}
+2026-03-11T12:48:19: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"2245a92a-eebd-473c-886b-7153794ad4bd"},"timestamp":"2026-03-11T07:48:19.185Z"}
+2026-03-11T12:48:19: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"794f3a7c-74af-4e8e-ab9b-995e583e133e"},"timestamp":"2026-03-11T07:48:19.195Z"}
+2026-03-11T12:49:26: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"b6648efa-0787-4319-86e1-32afb397958f"},"timestamp":"2026-03-11T07:49:26.722Z"}
+2026-03-11T12:49:26: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"16d3bb74-8f91-4d33-bc83-64daabfccaf6"},"timestamp":"2026-03-11T07:49:26.726Z"}
+2026-03-11T12:50:25: {"level":"warn","message":{"ip":"::1","msg":"Unauthorized request","path":"/post"},"timestamp":"2026-03-11T07:50:25.090Z"}
+2026-03-11T12:50:32: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"0de3996b-f465-4455-bc3f-fdf033f26a5f"},"timestamp":"2026-03-11T07:50:32.631Z"}
+2026-03-11T12:50:32: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"d70d343d-04f8-47fe-ad14-5257ddc35f72"},"timestamp":"2026-03-11T07:50:32.640Z"}
+2026-03-11T12:51:40: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"a7980621-36c0-4495-83f1-351c692ef256"},"timestamp":"2026-03-11T07:51:40.131Z"}
+2026-03-11T12:51:40: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"9c4b4311-6333-40a4-ab89-c82328efc4a2"},"timestamp":"2026-03-11T07:51:40.138Z"}
+2026-03-11T12:52:09: {"level":"info","message":{"action":"fetch_messages","dry_run":false,"requestId":"70843060-55da-4215-8b44-00450601039b"},"timestamp":"2026-03-11T07:52:09.302Z"}
+2026-03-11T12:52:09: {"level":"info","message":{"action":"fetch_comments","dry_run":false,"requestId":"6b547044-bd1c-4dea-9f55-00515499fd6b"},"timestamp":"2026-03-11T07:52:09.310Z"}
+2026-03-11T12:52:38: {"level":"info","message":{"dry_run":false,"msg":"Facebook MCP server running","port":"3001"},"timestamp":"2026-03-11T07:52:38.343Z"}
+2026-03-11T12:52:44: {"level":"info","message":{"action":"post_to_page","dry_run":false,"requestId":"824b805c-feda-41e1-bd29-b083411d722b"},"timestamp":"2026-03-11T07:52:44.359Z"}
+2026-03-11T12:53:47: {"action":"post_to_page","dry_run":false,"level":"info","message":"Excited to share how AI automation is transforming","requestId":"e0001f0b-a2f5-4a2a-af85-2988c3b3d00d","timestamp":"2026-03-11T07:53:47.173Z"}
+2026-03-11T12:53:53: {"level":"info","message":{"msg":"On page: https://www.facebook.com/","requestId":"e0001f0b-a2f5-4a2a-af85-2988c3b3d00d"},"timestamp":"2026-03-11T07:53:53.818Z"}
+2026-03-11T12:53:59: {"level":"info","message":{"labels":["Log in","Create new account","Meta logo"],"msg":"FB aria-labels/placeholders","requestId":"e0001f0b-a2f5-4a2a-af85-2988c3b3d00d"},"timestamp":"2026-03-11T07:53:59.151Z"}
+2026-03-11T12:53:59: {"level":"error","message":{"error":"Could not find \"What's on your mind?\" post box — check fb_debug.png","requestId":"e0001f0b-a2f5-4a2a-af85-2988c3b3d00d"},"timestamp":"2026-03-11T07:53:59.155Z"}
+2026-03-11T12:55:21: {"level":"info","message":{"dry_run":false,"msg":"Facebook MCP server running","port":"3001"},"timestamp":"2026-03-11T07:55:21.960Z"}
+2026-03-11T12:55:27: {"action":"post_to_page","dry_run":false,"level":"info","message":"Excited to share how AI automation is transforming","requestId":"8d27069c-4cdd-4231-a324-130b461092dd","timestamp":"2026-03-11T07:55:27.169Z"}
+2026-03-11T12:55:32: {"level":"info","message":{"msg":"On page: https://www.facebook.com/","requestId":"8d27069c-4cdd-4231-a324-130b461092dd"},"timestamp":"2026-03-11T07:55:32.270Z"}
+2026-03-11T12:55:37: {"level":"info","message":{"labels":["Log in","Create new account","Meta logo"],"msg":"FB aria-labels/placeholders","requestId":"8d27069c-4cdd-4231-a324-130b461092dd"},"timestamp":"2026-03-11T07:55:37.513Z"}
+2026-03-11T12:55:37: {"level":"error","message":{"error":"Could not find \"What's on your mind?\" post box — check fb_debug.png","requestId":"8d27069c-4cdd-4231-a324-130b461092dd"},"timestamp":"2026-03-11T07:55:37.517Z"}
+2026-03-11T12:56:44: {"level":"info","message":{"dry_run":true,"msg":"Facebook MCP server running","port":"3001"},"timestamp":"2026-03-11T07:56:44.393Z"}
+2026-03-11T12:56:44: {"level":"warn","message":{"msg":"DRY RUN MODE — no real Facebook actions will be executed"},"timestamp":"2026-03-11T07:56:44.400Z"}
+2026-03-11T12:57:09: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"ed5acd32-cfb1-485d-9e5e-210b4cb11c9e"},"timestamp":"2026-03-11T07:57:09.334Z"}
+2026-03-11T12:57:09: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"a4ee9281-9614-43d0-a37d-052d7093fd70"},"timestamp":"2026-03-11T07:57:09.350Z"}
+2026-03-11T12:57:38: {"action":"post_to_page","dry_run":true,"level":"info","message":"Excited to share how AI automation is transforming","requestId":"edd9efee-f8ab-45f7-b344-b2e92bb2d6e8","timestamp":"2026-03-11T07:57:38.884Z"}
+2026-03-11T12:57:38: {"level":"info","message":"Excited to share how AI automation is transforming small businesses in 2026. Our clients are saving 10 hours/week. Curious how it works? DM me. � Samina","msg":"[DRY RUN] Would post to Facebook","requestId":"edd9efee-f8ab-45f7-b344-b2e92bb2d6e8","timestamp":"2026-03-11T07:57:38.884Z"}
+2026-03-11T12:58:22: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"70d68544-d326-4452-9ab3-68260e5f3dcf"},"timestamp":"2026-03-11T07:58:22.792Z"}
+2026-03-11T13:02:09: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"a1952899-0cb9-47a7-ba68-b38c26a4f737"},"timestamp":"2026-03-11T08:02:09.367Z"}
+2026-03-11T13:02:09: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"79f34c23-c392-43e4-ac06-1e5cd6355741"},"timestamp":"2026-03-11T08:02:09.383Z"}
+2026-03-11T13:07:09: {"level":"info","message":{"action":"fetch_messages","dry_run":true,"requestId":"05201b43-1263-48e0-a5d9-eb48f2718d43"},"timestamp":"2026-03-11T08:07:09.409Z"}
+2026-03-11T13:07:09: {"level":"info","message":{"action":"fetch_comments","dry_run":true,"requestId":"c4364412-251a-447b-a0da-417290b0b890"},"timestamp":"2026-03-11T08:07:09.442Z"}

@@ -1,0 +1,34 @@
+[
+  {
+    "action_type": "linkedin_post",
+    "file": "LINKEDIN_POST_2026-02-27.md",
+    "result": "failure",
+    "dry_run": false,
+    "timestamp": "2026-02-27T10:43:39.930496",
+    "actor": "linkedin_poster"
+  },
+  {
+    "action_type": "linkedin_post",
+    "file": "LINKEDIN_POST_2026-02-27.md",
+    "result": "failure",
+    "dry_run": false,
+    "timestamp": "2026-02-27T10:45:14.490023",
+    "actor": "linkedin_poster"
+  },
+  {
+    "action_type": "linkedin_post",
+    "file": "LINKEDIN_POST_2026-02-27.md",
+    "result": "failure",
+    "dry_run": false,
+    "timestamp": "2026-02-27T10:52:44.818564",
+    "actor": "linkedin_poster"
+  },
+  {
+    "action_type": "linkedin_post",
+    "file": "LINKEDIN_POST_2026-02-27.md",
+    "result": "success",
+    "dry_run": false,
+    "timestamp": "2026-02-27T10:58:48.619488",
+    "actor": "linkedin_poster"
+  }
+]

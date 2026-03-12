@@ -1,0 +1,30 @@
+# AI Employee Gold Tier — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Google API (Gmail) ─────────────────────────────────────────────────────────
+google-auth>=2.29.0
+google-auth-oauthlib>=1.2.0
+google-auth-httplib2>=0.2.0
+google-api-python-client>=2.130.0
+
+# ── Browser Automation (LinkedIn, social media watchers) ──────────────────────
+playwright>=1.44.0
+
+# ── File System Watching ──────────────────────────────────────────────────────
+watchdog>=4.0.0
+
+# ── Environment Variable Loading ──────────────────────────────────────────────
+python-dotenv>=1.0.1
+
+# ── HTTP Requests (watcher → MCP server communication) ───────────────────────
+requests>=2.31.0
+
+# ── Gold Tier Additions ───────────────────────────────────────────────────────
+# Scheduling (alternative to cron on Windows)
+schedule>=1.2.0
+
+# UUID generation
+uuid>=1.30
+
+# ── Development & Testing ─────────────────────────────────────────────────────
+# pytest>=8.0.0     # uncomment for testing
